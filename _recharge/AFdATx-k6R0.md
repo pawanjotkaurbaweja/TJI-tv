@@ -1,0 +1,79 @@
+---
+publishedAt: "2020-06-15T14:24:09Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "OPPO A12 Unboxing & Review -   Smartphone Under 10K?​"
+description: "Buy the phone here: https://www.oppo.com/in/smartphone-a12/ 😅👈\n\nGet the best welcome cash bonus https://bit.ly/3hPHV3B\n\nOppo has made its name in the market through its best budget smartphone deals. China-based company #OPPO has been popular across the world for Oppo Reno, Oppo F, and Oppo A series. This year Oppo brings you a new member of the A-series, #OppoA12. So Recharge is here with the new video to unbox Oppo A12 and share its #firstlook and first impression with you all.\n\nOppo A12 smartphone was launched in April 2020. The phone comes with a 6.22-inch touchscreen display. Oppo A12 is powered by an octa-core MediaTek Helio P35 (MT6765) processor. The Oppo A12 runs Android 9 and is powered by a 4230mAh non-removable battery. The Oppo A12 is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and Nano-SIM cards.\n\nOppo 12 unboxing in this video, detailed review is followed by it. Oppo a12 is reviewed by govind singh bisht, where govind talks about the OPPO a12 in detail. \n\nLink to participate in the giveaway: https://gleam.io/K2cgf/oppo-a12-giveaway\n\nSteps to win the giveaway\nStep 1: Subscribe to our channel Recharge\nStep 2: Comment the battery size of Oppo A12\nStep 3: Comment the display size of Oppo A12\n\nWinner to be announced on 18th June.\n\nSo if you wish to get a detailed review on Oppo A12 by our anchor Govind Bisht, then do tell us in the comments below and also for more such #firstlook videos subscribe to our channel Recharge: http://bit.ly/rechargetech\n\nFor more such cool #tech video follow Recharge on other #social platforms as well: \nInstagram: https://www.instagram.com/recharge_tech/ \nFacebook: https://www.facebook.com/recharge.rusk/ \nTwitter: https://twitter.com/tech_recharge\n\n\nMore about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from Recharge.Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about latest gadgets you need for your social media feed!\n\nOur latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from Recharge.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.\n\nCheckout our playlist for all the cool and honest top product reviews and other latest gadgets comparison in the market: https://www.youtube.com/playlist?list=PLodNTMC3WzjjitQUjqykx8cxAW-C5VT56\n\nFalling short of those dolla dolla bills? Worry not! Our \"In My Budget\" segment will keep you afloat during the month end.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out? Well, we will try it out for you! Lots of fun explosions, science tips and tricks, and satisfying reactions, we shoot the coolest #science experiments to tell you the difference between the studs and the duds.\n\nSo, stay on to watch us discover the best of the tech trends and news, the newest phone and gadget #launches, and rocking science experiments and break it down for every tech dummy in India.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from our channel Make easier choices, know exactly which cool gadget to get and start killing it in your social group by gadget comparison. oppo a12 unboxing oppo a12 2020 oppo a12 review oppo a12 pubg test"
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/AFdATx-k6R0/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/AFdATx-k6R0/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/AFdATx-k6R0/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/AFdATx-k6R0/sddefault.jpg"
+    width: 640
+    height: 480
+  maxres:
+    url: "https://i.ytimg.com/vi/AFdATx-k6R0/maxresdefault.jpg"
+    width: 1280
+    height: 720
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 27
+resourceId:
+  kind: "youtube#video"
+  videoId: "AFdATx-k6R0"
+header:
+  teaser: "https://i.ytimg.com/vi/AFdATx-k6R0/mqdefault.jpg"
+date: "2020-06-16T08:15:09Z"
+image: "https://i.ytimg.com/vi/AFdATx-k6R0/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/AFdATx-k6R0/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+Buy the phone here: https://www.oppo.com/in/smartphone-a12/ 😅👈
+
+Get the best welcome cash bonus https://bit.ly/3hPHV3B
+
+Oppo has made its name in the market through its best budget smartphone deals. China-based company #OPPO has been popular across the world for Oppo Reno, Oppo F, and Oppo A series. This year Oppo brings you a new member of the A-series, #OppoA12. So Recharge is here with the new video to unbox Oppo A12 and share its #firstlook and first impression with you all.
+
+Oppo A12 smartphone was launched in April 2020. The phone comes with a 6.22-inch touchscreen display. Oppo A12 is powered by an octa-core MediaTek Helio P35 (MT6765) processor. The Oppo A12 runs Android 9 and is powered by a 4230mAh non-removable battery. The Oppo A12 is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and Nano-SIM cards.
+
+Oppo 12 unboxing in this video, detailed review is followed by it. Oppo a12 is reviewed by govind singh bisht, where govind talks about the OPPO a12 in detail. 
+
+Link to participate in the giveaway: https://gleam.io/K2cgf/oppo-a12-giveaway
+
+Steps to win the giveaway
+Step 1: Subscribe to our channel Recharge
+Step 2: Comment the battery size of Oppo A12
+Step 3: Comment the display size of Oppo A12
+
+Winner to be announced on 18th June.
+
+So if you wish to get a detailed review on Oppo A12 by our anchor Govind Bisht, then do tell us in the comments below and also for more such #firstlook videos subscribe to our channel Recharge: http://bit.ly/rechargetech
+
+For more such cool #tech video follow Recharge on other #social platforms as well: 
+Instagram: https://www.instagram.com/recharge_tech/ 
+Facebook: https://www.facebook.com/recharge.rusk/ 
+Twitter: https://twitter.com/tech_recharge
+
+
+More about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from Recharge.Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about latest gadgets you need for your social media feed!
+
+Our latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from Recharge.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.
+
+Checkout our playlist for all the cool and honest top product reviews and other latest gadgets comparison in the market: https://www.youtube.com/playlist?list=PLodNTMC3WzjjitQUjqykx8cxAW-C5VT56
+
+Falling short of those dolla dolla bills? Worry not! Our "In My Budget" segment will keep you afloat during the month end.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out? Well, we will try it out for you! Lots of fun explosions, science tips and tricks, and satisfying reactions, we shoot the coolest #science experiments to tell you the difference between the studs and the duds.
+
+So, stay on to watch us discover the best of the tech trends and news, the newest phone and gadget #launches, and rocking science experiments and break it down for every tech dummy in India.Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look and best android new phone.If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk and Sharmaji Technical then you will also like videos from our channel Make easier choices, know exactly which cool gadget to get and start killing it in your social group by gadget comparison. oppo a12 unboxing oppo a12 2020 oppo a12 review oppo a12 pubg test

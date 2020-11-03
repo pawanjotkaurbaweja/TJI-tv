@@ -1,0 +1,66 @@
+---
+publishedAt: "2020-04-27T14:23:54Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "Coronavirus: What Will Life Look Like After Lockdown?"
+description: "Udemy has the world's largest selection of courses. Now you can sit back and learn from your home only through Udemy. Start Learning on Udemy at discounted price: http://ude.my/11wkk4\n\nGet the best welcome cash bonus https://bit.ly/3hPHV3B\n\nCoronavirus has undoubtedly affected us in numerous ways. This has made us realized how important it is to maintain social distancing in public during and even after this pandemic. #Coronavirus has #affected people in many ways technically, economically and of course physically but we all wonder what will happen once when coronavirus ends right? How different our lives will be, what new products will be launched to control pandemic like coronavirus in the future, and how are countries across the world will cope up with this.\n\nCourtesy: NDTV India, NDTV 24/7, CNA\n\nIf you are wondering all these things as well as us then don't worry. Recharge did its research for you and our anchor Govind Bisht is here to answer them for you. So if you wish to know as well that how #life will be after Coronavirus then watch ahead this full video. For more such amazing tech-related videos subscribe to our channel: http://bit.ly/rechargetech\n\nFor more such cool #tech video follow Recharge on other #social platforms as well: Instagram: https://www.instagram.com/recharge_tech/ Facebook: https://www.facebook.com/recharge.rusk/ Twitter: https://twitter.com/tech_recharge\n\nFor more such market watch videos by Recharge do check out our playlist: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF\n\nMore about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about the latest gadgets you need for your social media feed!\n\nOur latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside\n\nscoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone.\n\nFalling short of those dolla dolla bills? Worry not! Our \"In My Budget\" segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out? Well, we will try it out for you! Lots of fun explosions, science tips and tricks, and satisfying reactions, we shoot the coolest #science experiments to tell you the difference between the studs and the duds.\n\nSo, stay on to watch us discover the best of the tech trends and news, the newest phone and gadget #launches, and rocking science experiments and break it down for every tech dummy in India. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from our channel Make easier choices, know exactly which cool gadget to get and start killing it in your social group by gadget comparison."
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/1ephHjy-MSc/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/1ephHjy-MSc/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/1ephHjy-MSc/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/1ephHjy-MSc/sddefault.jpg"
+    width: 640
+    height: 480
+  maxres:
+    url: "https://i.ytimg.com/vi/1ephHjy-MSc/maxresdefault.jpg"
+    width: 1280
+    height: 720
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 37
+resourceId:
+  kind: "youtube#video"
+  videoId: "1ephHjy-MSc"
+header:
+  teaser: "https://i.ytimg.com/vi/1ephHjy-MSc/mqdefault.jpg"
+date: "2020-04-29T09:10:20Z"
+image: "https://i.ytimg.com/vi/1ephHjy-MSc/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/1ephHjy-MSc/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+Udemy has the world's largest selection of courses. Now you can sit back and learn from your home only through Udemy. Start Learning on Udemy at discounted price: http://ude.my/11wkk4
+
+Get the best welcome cash bonus https://bit.ly/3hPHV3B
+
+Coronavirus has undoubtedly affected us in numerous ways. This has made us realized how important it is to maintain social distancing in public during and even after this pandemic. #Coronavirus has #affected people in many ways technically, economically and of course physically but we all wonder what will happen once when coronavirus ends right? How different our lives will be, what new products will be launched to control pandemic like coronavirus in the future, and how are countries across the world will cope up with this.
+
+Courtesy: NDTV India, NDTV 24/7, CNA
+
+If you are wondering all these things as well as us then don't worry. Recharge did its research for you and our anchor Govind Bisht is here to answer them for you. So if you wish to know as well that how #life will be after Coronavirus then watch ahead this full video. For more such amazing tech-related videos subscribe to our channel: http://bit.ly/rechargetech
+
+For more such cool #tech video follow Recharge on other #social platforms as well: Instagram: https://www.instagram.com/recharge_tech/ Facebook: https://www.facebook.com/recharge.rusk/ Twitter: https://twitter.com/tech_recharge
+
+For more such market watch videos by Recharge do check out our playlist: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF
+
+More about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about the latest gadgets you need for your social media feed!
+
+Our latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside
+
+scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone.
+
+Falling short of those dolla dolla bills? Worry not! Our "In My Budget" segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out? Well, we will try it out for you! Lots of fun explosions, science tips and tricks, and satisfying reactions, we shoot the coolest #science experiments to tell you the difference between the studs and the duds.
+
+So, stay on to watch us discover the best of the tech trends and news, the newest phone and gadget #launches, and rocking science experiments and break it down for every tech dummy in India. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from our channel Make easier choices, know exactly which cool gadget to get and start killing it in your social group by gadget comparison.

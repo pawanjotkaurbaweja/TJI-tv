@@ -1,0 +1,74 @@
+---
+publishedAt: "2020-05-28T10:20:40Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "🔴[Gaming Stars #01] PUBG LIVE @GadgetsToUse , Sahil Verma, Mehak Mehra [@Burrah ] pubg mobile live"
+description: "Donate to PM Cares fund:\nPaytm: https://paytm.com/helpinghand/pm-cares-fund\nGoogle Pay: https://gpay.app.goo.gl/sBRWmg\nUPI ID: pmcares@sbi\nAccount Transfer: \nName of Account - PM CARES\nAccount Number - 2121PM20202\nIFSC Code - SBIN0000691\nName of Bank & Branch - State Bank of India, New Delhi Main Branch\n\nPM's National Relief Fund website: https://pmnrf.gov.in/en/\n\nSince Coronavirus cases in India are continuously increasing at an alarming rate, Recharge presents you Gamers Podcast which is a #charity live stream for all our #Corona warriors out there. In this live session, our anchor Burrah will interact with gamers and tech anchors like Gadgets to use along with actors Mehek Mehra and Sahil Verma over a fun and interactive online #PUBG session. Since PUBG is every gamer's favorite game, along with this we will also have a fun round of questions and activities planned for our guests. So, stay tuned till the end for an ultimate live gaming session and contribute your bit to help Corona Warriors on the above mentioned details.\n\nAbout Burrah\nThis 24-year-old Dilli Da Sardarboy aims to be the next wave of Music in the scene, capturing those never felt-before emotions through some never read-before lyrics and never-heard-before sounds. That being said, Burrah is also the world’s most Punjabi feeling for happiness, triumph, and joy. He hopes that you will enjoy and relate to the future music he’s about to bring in the coming days :) \nFollow Burrah on social media!\nInstagram: https://www.instagram.com/burrahmusic/\nYoutube: https://www.youtube.com/channel/UCC-o_42EAlGk_ByRVwVCRFA\n\nGadgets To Use: Gadgets To Use is one of the top tech news, unboxing and reviews channel. At gadgets to use they tell you how to use your gadgets to full, they also tell you best gadgets which you can buy and use in day to day life. They help you to stay updated about latest tech happening, latest smartphones, tablets and other innovative and new tech gadgets. To know more about them follow them on other social media platforms as well: Instagram: https://www.instagram.com/gadgetstouse/ Youtube: https://www.youtube.com/user/technixmedia/featured\n\nMehek Mehra: Mehek Mehra is an actor whom you can see in various web series. Mehek Mehra is known for his amazing acting skills and bubbly nature. You can watch her videos like Girls Sleepover, Long Distance Relationship by Alright to see more from Mehek Mehra. Not only this but she is also popular for featuring in Airtel's advertisment. So to know more about Mehek Mehra follow her on Instagram as well: https://www.instagram.com/mehekmehra93/\n\nSahil Verma: Sahil Verma is an actor as well as director. Sahil Verma is a graduate from Delhi University and works at The Timeliners. Sahil Verma is popularly known as Pandabhaai. To know more about Sahil Verma follow him on Instagram as well: https://www.instagram.com/pandabhaai/\n\nMore about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs, and most importantly, #technews about the latest gadgets you need for your social media feed!\n\nOur latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phones. \n\nFalling short of those dolla dolla bills? Worry not! Our “In My Budget” segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out?"
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/Nnu1FFAyN1A/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/Nnu1FFAyN1A/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/Nnu1FFAyN1A/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/Nnu1FFAyN1A/sddefault.jpg"
+    width: 640
+    height: 480
+  maxres:
+    url: "https://i.ytimg.com/vi/Nnu1FFAyN1A/maxresdefault.jpg"
+    width: 1280
+    height: 720
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 32
+resourceId:
+  kind: "youtube#video"
+  videoId: "Nnu1FFAyN1A"
+header:
+  teaser: "https://i.ytimg.com/vi/Nnu1FFAyN1A/mqdefault.jpg"
+date: "2020-05-28T14:09:46Z"
+image: "https://i.ytimg.com/vi/Nnu1FFAyN1A/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/Nnu1FFAyN1A/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+Donate to PM Cares fund:
+Paytm: https://paytm.com/helpinghand/pm-cares-fund
+Google Pay: https://gpay.app.goo.gl/sBRWmg
+UPI ID: pmcares@sbi
+Account Transfer: 
+Name of Account - PM CARES
+Account Number - 2121PM20202
+IFSC Code - SBIN0000691
+Name of Bank & Branch - State Bank of India, New Delhi Main Branch
+
+PM's National Relief Fund website: https://pmnrf.gov.in/en/
+
+Since Coronavirus cases in India are continuously increasing at an alarming rate, Recharge presents you Gamers Podcast which is a #charity live stream for all our #Corona warriors out there. In this live session, our anchor Burrah will interact with gamers and tech anchors like Gadgets to use along with actors Mehek Mehra and Sahil Verma over a fun and interactive online #PUBG session. Since PUBG is every gamer's favorite game, along with this we will also have a fun round of questions and activities planned for our guests. So, stay tuned till the end for an ultimate live gaming session and contribute your bit to help Corona Warriors on the above mentioned details.
+
+About Burrah
+This 24-year-old Dilli Da Sardarboy aims to be the next wave of Music in the scene, capturing those never felt-before emotions through some never read-before lyrics and never-heard-before sounds. That being said, Burrah is also the world’s most Punjabi feeling for happiness, triumph, and joy. He hopes that you will enjoy and relate to the future music he’s about to bring in the coming days :) 
+Follow Burrah on social media!
+Instagram: https://www.instagram.com/burrahmusic/
+Youtube: https://www.youtube.com/channel/UCC-o_42EAlGk_ByRVwVCRFA
+
+Gadgets To Use: Gadgets To Use is one of the top tech news, unboxing and reviews channel. At gadgets to use they tell you how to use your gadgets to full, they also tell you best gadgets which you can buy and use in day to day life. They help you to stay updated about latest tech happening, latest smartphones, tablets and other innovative and new tech gadgets. To know more about them follow them on other social media platforms as well: Instagram: https://www.instagram.com/gadgetstouse/ Youtube: https://www.youtube.com/user/technixmedia/featured
+
+Mehek Mehra: Mehek Mehra is an actor whom you can see in various web series. Mehek Mehra is known for his amazing acting skills and bubbly nature. You can watch her videos like Girls Sleepover, Long Distance Relationship by Alright to see more from Mehek Mehra. Not only this but she is also popular for featuring in Airtel's advertisment. So to know more about Mehek Mehra follow her on Instagram as well: https://www.instagram.com/mehekmehra93/
+
+Sahil Verma: Sahil Verma is an actor as well as director. Sahil Verma is a graduate from Delhi University and works at The Timeliners. Sahil Verma is popularly known as Pandabhaai. To know more about Sahil Verma follow him on Instagram as well: https://www.instagram.com/pandabhaai/
+
+More about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs, and most importantly, #technews about the latest gadgets you need for your social media feed!
+
+Our latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phones. 
+
+Falling short of those dolla dolla bills? Worry not! Our “In My Budget” segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out?

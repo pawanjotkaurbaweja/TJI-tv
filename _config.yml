@@ -20,18 +20,15 @@ menu:
     url: /lit
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: t@ruskmedia.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
 
 
 # Posts Settings
@@ -57,6 +54,9 @@ permalink: /:title/
 collections:
   authors:
     output: true
+  recharge:
+    output: true
+    layout: post
 paginate_path: "/page/:num/"
 use_logo: false
 
@@ -66,6 +66,7 @@ paginate_content:
   debug: false
   collections:
     - posts
+    - recharge
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"
@@ -77,7 +78,7 @@ paginate_content:
       is_generated: true
     single:
       is_generated: true
-
+# paginate: 20
 # SASS
 sass:
   style: compressed
@@ -102,3 +103,14 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+
+## Defaults by kaaro
+
+defaults:
+  - scope:
+      path: ""
+      type: "recharge"
+    values:
+      layout: "video_post"
+  

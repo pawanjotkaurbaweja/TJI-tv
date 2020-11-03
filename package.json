@@ -37,5 +37,12 @@
     "lodash": "^4.17.13",
     "lodash.merge": "^4.6.2",
     "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "js": "^0.1.0",
+    "json-to-frontmatter-markdown": "^1.0.0",
+    "json-to-pretty-yaml": "^1.2.2",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
   }
 }

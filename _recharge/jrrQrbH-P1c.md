@@ -1,0 +1,79 @@
+---
+publishedAt: "2020-03-27T11:11:16Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "Coronavirus Symptoms & 7 MYTHS Explained"
+description: "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.\n\nGet the best welcome cash bonus https://bit.ly/3hPHV3B\n\nShri Rajesh Tope, Hon. Minister of Health & Family Welfare, Government of Maharashtra has been taking tremendous actions to cut down the spread of coronavirus. He encourages people to practice social distancing and maintain discipline so that together we can deal with the current scenario of coronavirus.\n\nThe best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.\n\nSocial distancing is a non-pharmaceutical infection prevention and control intervention\nimplemented to avoid/decrease contact between those who are infected with a disease causing pathogen and those who are not, so as to stop or slow down the rate and extent of disease transmission in a community. This eventually leads to decrease in spread, morbidity and mortality due to the disease.\n\nThere's no denying that one fear which is on everyone's mind in the world these days is Coronavirus. #Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. But there are some untrue myths that have been spreading all over social media just like this virus. It's important to stay informed well about coronavirus but trusting anything over #socialmedia is wrong.\n\nSo Recharge is here with a very important Coronavirus #myth buster video which is a must watch as one should be well informed about it. Watch ahead this full video to help the one who is trusting such myths and for more such videos on Coronavirus subscribe to our channel Recharge: http://bit.ly/rechargetech\n\nOverview\nMyths\n1. Mosquito bite causes Coronavirus\n2. Spraying Alcohol over your body or taking a hot bath will kill Coronavirus\n3. Thermal scanners are useless\n4. UV disinfection lamps and hand dryers can kill the virus\n5. Eating garlic can prevent infection from Covid-19\n6. Coronavirus can only affect older people\n7. Cure for Covid-19 has been found or anti- biotics are effective against Covid-19\n\nFor live updates of Coronavirus visit: https://www.who.int/\n\nFor more such #tech videos follow Recharge on other #social platforms as well: Instagram: https://www.instagram.com/recharge_tech/ Facebook: https://www.facebook.com/recharge.rusk/ Twitter: https://twitter.com/tech_recharge\n\nMore about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about the latest gadgets you need for your social media feed!\n\nIf you wish to get more updated with tech market then watch ahead our playlist market watch: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF\n\nOur latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone.\n\nFalling short of those dolla dolla bills? Worry not! Our \"In My Budget\" segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out?"
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/jrrQrbH-P1c/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/jrrQrbH-P1c/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/jrrQrbH-P1c/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/jrrQrbH-P1c/sddefault.jpg"
+    width: 640
+    height: 480
+  maxres:
+    url: "https://i.ytimg.com/vi/jrrQrbH-P1c/maxresdefault.jpg"
+    width: 1280
+    height: 720
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 42
+resourceId:
+  kind: "youtube#video"
+  videoId: "jrrQrbH-P1c"
+header:
+  teaser: "https://i.ytimg.com/vi/jrrQrbH-P1c/mqdefault.jpg"
+date: "2020-03-27T14:10:36Z"
+image: "https://i.ytimg.com/vi/jrrQrbH-P1c/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/jrrQrbH-P1c/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.
+
+Get the best welcome cash bonus https://bit.ly/3hPHV3B
+
+Shri Rajesh Tope, Hon. Minister of Health & Family Welfare, Government of Maharashtra has been taking tremendous actions to cut down the spread of coronavirus. He encourages people to practice social distancing and maintain discipline so that together we can deal with the current scenario of coronavirus.
+
+The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.
+
+Social distancing is a non-pharmaceutical infection prevention and control intervention
+implemented to avoid/decrease contact between those who are infected with a disease causing pathogen and those who are not, so as to stop or slow down the rate and extent of disease transmission in a community. This eventually leads to decrease in spread, morbidity and mortality due to the disease.
+
+There's no denying that one fear which is on everyone's mind in the world these days is Coronavirus. #Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. But there are some untrue myths that have been spreading all over social media just like this virus. It's important to stay informed well about coronavirus but trusting anything over #socialmedia is wrong.
+
+So Recharge is here with a very important Coronavirus #myth buster video which is a must watch as one should be well informed about it. Watch ahead this full video to help the one who is trusting such myths and for more such videos on Coronavirus subscribe to our channel Recharge: http://bit.ly/rechargetech
+
+Overview
+Myths
+1. Mosquito bite causes Coronavirus
+2. Spraying Alcohol over your body or taking a hot bath will kill Coronavirus
+3. Thermal scanners are useless
+4. UV disinfection lamps and hand dryers can kill the virus
+5. Eating garlic can prevent infection from Covid-19
+6. Coronavirus can only affect older people
+7. Cure for Covid-19 has been found or anti- biotics are effective against Covid-19
+
+For live updates of Coronavirus visit: https://www.who.int/
+
+For more such #tech videos follow Recharge on other #social platforms as well: Instagram: https://www.instagram.com/recharge_tech/ Facebook: https://www.facebook.com/recharge.rusk/ Twitter: https://twitter.com/tech_recharge
+
+More about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about the latest gadgets you need for your social media feed!
+
+If you wish to get more updated with tech market then watch ahead our playlist market watch: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF
+
+Our latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you need the inside scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone.
+
+Falling short of those dolla dolla bills? Worry not! Our "In My Budget" segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out?

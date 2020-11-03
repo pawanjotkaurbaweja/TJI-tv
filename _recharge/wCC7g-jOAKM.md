@@ -1,0 +1,68 @@
+---
+publishedAt: "2020-09-23T13:11:59Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "[Gaming Stars] Free Fire Live Highlights ft. @CASUAL GAMING  @BerryisLive"
+description: "Watch full live here: https://youtu.be/ieUkRQlYG3U\n\nRecharge is here with [Gaming Stars] Free Fire #Live Highlights ft. CASUAL GAMING  & BerryisLive if you missed out on all the fun from our latest live. ​ This video is a short video that compiles all the funny and OP moments from our recent Free Fire Live with Casual gaming and Berry. So If you wish to see garena Free Fire LIVE highlights, custom room free fire india, #freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire #highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch. Also don't forget to subscribe to RECHARGE for more amazing gaming live streams: http://bit.ly/rechargetech\n\nFollow Recharge on other social media platforms as well:\nInstagram: https://www.instagram.com/recharge_tech/\nFacebook: https://www.facebook.com/recharge.rusk/\nTwitter: https://twitter.com/tech_recharge\n\nWatch our other gaming live streams here: https://www.youtube.com/playlist?list=PLodNTMC3WzjjPVeaTUlUer0gxUwfL_oFF\n\nMore about Booyah with the stars \nTaking gaming into a whole new level Recharge X FreeFire Live presents #Booyah with the stars. Booyah with the stars is a new show strictly for all those gamers who starts and ends the day with gaming. With Recharge X FreeFire Booyah with the stars, you can win a chance to play with top gamers. If you also crave games with ultimate thrill then Booyah with the stars is just the show for you. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.\n\nMore about Free fire\n\n#Garena Free Fire is a #battle #royalegame, developed by 111 Dots Studio and published by Garena for Android and iOS. It became the most downloaded mobile game globally in 2019. Due to its popularity, the game received the award for the \"Best Popular Voted Game\" by the Google Play Store in 2019. As of May 2020, Free Fire has set a record with over 80 million daily active users globally. As of November 2019, Free Fire has grossed over $1 billion worldwide. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.\n\n\nMore about Recharge\nRecharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best #camera phones, #unboxing videos, first look, and the best #android new phone. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.\n\nIf you like videos from Technical Guruji, #Geekyranjit, #C4ETech, SidTalk, and #Sharmaji Technical then you will also like videos from Recharge. Think unboxing top smartphone #reviews, budget buys, hi-tech specs, and most importantly, #technews about the latest gadgets you need for your social media feed!\n\nIf you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch."
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/wCC7g-jOAKM/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/wCC7g-jOAKM/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/wCC7g-jOAKM/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/wCC7g-jOAKM/sddefault.jpg"
+    width: 640
+    height: 480
+  maxres:
+    url: "https://i.ytimg.com/vi/wCC7g-jOAKM/maxresdefault.jpg"
+    width: 1280
+    height: 720
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 7
+resourceId:
+  kind: "youtube#video"
+  videoId: "wCC7g-jOAKM"
+header:
+  teaser: "https://i.ytimg.com/vi/wCC7g-jOAKM/mqdefault.jpg"
+date: "2020-09-24T07:36:22Z"
+image: "https://i.ytimg.com/vi/wCC7g-jOAKM/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/wCC7g-jOAKM/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+Watch full live here: https://youtu.be/ieUkRQlYG3U
+
+Recharge is here with [Gaming Stars] Free Fire #Live Highlights ft. CASUAL GAMING  & BerryisLive if you missed out on all the fun from our latest live. ​ This video is a short video that compiles all the funny and OP moments from our recent Free Fire Live with Casual gaming and Berry. So If you wish to see garena Free Fire LIVE highlights, custom room free fire india, #freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire #highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch. Also don't forget to subscribe to RECHARGE for more amazing gaming live streams: http://bit.ly/rechargetech
+
+Follow Recharge on other social media platforms as well:
+Instagram: https://www.instagram.com/recharge_tech/
+Facebook: https://www.facebook.com/recharge.rusk/
+Twitter: https://twitter.com/tech_recharge
+
+Watch our other gaming live streams here: https://www.youtube.com/playlist?list=PLodNTMC3WzjjPVeaTUlUer0gxUwfL_oFF
+
+More about Booyah with the stars 
+Taking gaming into a whole new level Recharge X FreeFire Live presents #Booyah with the stars. Booyah with the stars is a new show strictly for all those gamers who starts and ends the day with gaming. With Recharge X FreeFire Booyah with the stars, you can win a chance to play with top gamers. If you also crave games with ultimate thrill then Booyah with the stars is just the show for you. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.
+
+More about Free fire
+
+#Garena Free Fire is a #battle #royalegame, developed by 111 Dots Studio and published by Garena for Android and iOS. It became the most downloaded mobile game globally in 2019. Due to its popularity, the game received the award for the "Best Popular Voted Game" by the Google Play Store in 2019. As of May 2020, Free Fire has set a record with over 80 million daily active users globally. As of November 2019, Free Fire has grossed over $1 billion worldwide. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.
+
+
+More about Recharge
+Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best #camera phones, #unboxing videos, first look, and the best #android new phone. If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.
+
+If you like videos from Technical Guruji, #Geekyranjit, #C4ETech, SidTalk, and #Sharmaji Technical then you will also like videos from Recharge. Think unboxing top smartphone #reviews, budget buys, hi-tech specs, and most importantly, #technews about the latest gadgets you need for your social media feed!
+
+If you wish to see garena Free Fire LIVE highlights, custom room free fire india, freefire,casual gaming free fire,casual gaming,free fire new event,how to get jai character free fire,free fire jai character,free fire new character,free fire hrithik roshan character,jai character free fire, free fire highlights,game highlights,free fire game highlights,aggressive player free fire highlights,highlights free fire then this gaming stars live by recharge tech is must watch.

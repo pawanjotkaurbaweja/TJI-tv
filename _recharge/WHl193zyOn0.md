@@ -1,0 +1,44 @@
+---
+publishedAt: "2020-10-09T04:57:45Z"
+channelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
+title: "HOW ELECTRIC CARS WORK?"
+description: "The Tesla Model 3 was the world's most popular plug-in electric vehicle with worldwide unit sales of more than 300,000 in 2019! \n\nFully electric cars have zero tailpipe emissions making them greener, cleaner and better for the environment than petrol or diesel cars. ... Less emissions mean reduced greenhouse gasses, enabling the UK to move towards sustainable, renewable sources of electricity.\n\nFollow us for more such videos!"
+thumbnails:
+  default:
+    url: "https://i.ytimg.com/vi/WHl193zyOn0/default.jpg"
+    width: 120
+    height: 90
+  medium:
+    url: "https://i.ytimg.com/vi/WHl193zyOn0/mqdefault.jpg"
+    width: 320
+    height: 180
+  high:
+    url: "https://i.ytimg.com/vi/WHl193zyOn0/hqdefault.jpg"
+    width: 480
+    height: 360
+  standard:
+    url: "https://i.ytimg.com/vi/WHl193zyOn0/sddefault.jpg"
+    width: 640
+    height: 480
+channelTitle: "Recharge"
+playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
+position: 3
+resourceId:
+  kind: "youtube#video"
+  videoId: "WHl193zyOn0"
+header:
+  teaser: "https://i.ytimg.com/vi/WHl193zyOn0/mqdefault.jpg"
+date: "2020-10-09T04:58:21Z"
+image: "https://i.ytimg.com/vi/WHl193zyOn0/hqdefault.jpg"
+optimized_image: "https://i.ytimg.com/vi/WHl193zyOn0/default.jpg"
+category: "Recharge"
+tags:
+  - "technology"
+  - "buzz"
+
+---
+The Tesla Model 3 was the world's most popular plug-in electric vehicle with worldwide unit sales of more than 300,000 in 2019! 
+
+Fully electric cars have zero tailpipe emissions making them greener, cleaner and better for the environment than petrol or diesel cars. ... Less emissions mean reduced greenhouse gasses, enabling the UK to move towards sustainable, renewable sources of electricity.
+
+Follow us for more such videos!
