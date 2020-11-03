@@ -1,22 +1,23 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Rusk
+title: Rusk | Content TV
+description: Content TV
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - tv
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: Alright!
+    url: /alright
+  - title: Recharge
+    url: /recharge
+  - title: Hattke
+    url: /hattke
+  - title: Binge
+    url: /binge
+  - title: LIT
+    url: /lit
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
@@ -57,7 +58,6 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
 use_logo: false
 
 # Content paginator
