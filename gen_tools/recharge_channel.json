@@ -1,64 +1,13 @@
 {
-  "kind": "youtube#channelListResponse",
-  "etag": "JVPJ5erHqkkKVphDhd_mN5tOt8c",
-  "pageInfo": {
-    "resultsPerPage": 1
-  },
-  "items": [
-    {
-      "kind": "youtube#channel",
-      "etag": "VA9CQp0dXXIvcp077YBbqmuRe58",
-      "id": "UCiWe-JhZJL3cGpFsZNyU7uA",
-      "snippet": {
-        "title": "Recharge",
-        "description": "Giving you the juice to keep upgrading your life, style and gadgets is what defines Recharge. Making tech simple, easy, understandable and common in India, our technology channel is all about making your choices simpler and ultimately your life, easier. Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest smartphones, the best laptops, the most awesome smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Think unboxing reviews, budget buys, hi-tech specs and most importantly, tech news about gadgets you need for your social media feed! Recharge your feed. Recharge your batteries. Recharge your life.\n\nSo stay on to watch us discover the best of the tech trends and news, the newest phone and gadget launches, and rocking science experiments and break it down for every tech dummy in India.",
-        "customUrl": "rechargetech",
-        "publishedAt": "2015-05-26T09:15:27Z",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/a/AATXAJwIfx9YMIuS4MkX_psh-a0DxLtA4Ms3Gpfbebk4Uw=s88-c-k-c0xffffffff-no-rj-mo",
-            "width": 88,
-            "height": 88
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/a/AATXAJwIfx9YMIuS4MkX_psh-a0DxLtA4Ms3Gpfbebk4Uw=s240-c-k-c0xffffffff-no-rj-mo",
-            "width": 240,
-            "height": 240
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/a/AATXAJwIfx9YMIuS4MkX_psh-a0DxLtA4Ms3Gpfbebk4Uw=s800-c-k-c0xffffffff-no-rj-mo",
-            "width": 800,
-            "height": 800
-          }
-        },
-        "localized": {
-          "title": "Recharge",
-          "description": "Giving you the juice to keep upgrading your life, style and gadgets is what defines Recharge. Making tech simple, easy, understandable and common in India, our technology channel is all about making your choices simpler and ultimately your life, easier. Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest smartphones, the best laptops, the most awesome smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Think unboxing reviews, budget buys, hi-tech specs and most importantly, tech news about gadgets you need for your social media feed! Recharge your feed. Recharge your batteries. Recharge your life.\n\nSo stay on to watch us discover the best of the tech trends and news, the newest phone and gadget launches, and rocking science experiments and break it down for every tech dummy in India."
-        },
-        "country": "IN"
-      },
-      "contentDetails": {
-        "relatedPlaylists": {
-          "likes": "",
-          "favorites": "",
-          "uploads": "UUiWe-JhZJL3cGpFsZNyU7uA",
-          "watchHistory": "HL",
-          "watchLater": "WL"
-        }
-      },
-      "statistics": {
-        "viewCount": "18080573",
-        "commentCount": "0",
-        "subscriberCount": "1030000",
-        "hiddenSubscriberCount": false,
-        "videoCount": "138"
-      },
-      "status": {
-        "privacyStatus": "public",
-        "isLinked": true,
-        "longUploadsStatus": "longUploadsUnspecified",
-        "madeForKids": false
+  "error": {
+    "code": 403,
+    "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
+    "errors": [
+      {
+        "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
+        "domain": "youtube.quota",
+        "reason": "quotaExceeded"
       }
-    }
-  ]
+    ]
+  }
 }

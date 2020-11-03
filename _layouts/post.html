@@ -15,14 +15,14 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                <iframe id="ytplayer" type="text/html" width="640" height="360" class="post-cover"
+                    src="https://www.youtube.com/embed/{{page.resourceId.videoId}}?autoplay=1&origin=http://example.com"
+                    frameborder="0"></iframe>
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -79,7 +79,7 @@
         {% include subscription.html %}
         {% include share.html %}
         {% include author.html %}
-        {% include comments.html %}
+        
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}

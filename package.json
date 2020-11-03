@@ -42,6 +42,7 @@
     "js": "^0.1.0",
     "json-to-frontmatter-markdown": "^1.0.0",
     "json-to-pretty-yaml": "^1.2.2",
+    "moment": "^2.29.1",
     "request": "^2.88.2",
     "superagent": "^6.1.0"
   }
