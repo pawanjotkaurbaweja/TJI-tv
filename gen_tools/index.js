@@ -34,7 +34,7 @@ function createFontMatterFromEpisodeData(episode) {
       date: episode.contentDetails.videoPublishedAt,    
       image: episode.snippet.thumbnails.high.url,
       optimized_image: episode.snippet.thumbnails.default.url,
-      category: "Recharge",
+      category: "recharge",
       tags: [
           'technology', 'buzz'
       ],
@@ -92,6 +92,7 @@ async function getUploadsOfChannel(channelId) {
   listOfVideos = uploadsOfChannelJSON.items;
 
   listOfVideos.forEach((episode) => {
+      
     let data = createFontMatterFromEpisodeData(episode);
 
     

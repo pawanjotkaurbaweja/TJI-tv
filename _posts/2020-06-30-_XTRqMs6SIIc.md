@@ -35,7 +35,7 @@ header:
 date: "2020-06-30T15:27:10Z"
 image: "https://i.ytimg.com/vi/XTRqMs6SIIc/hqdefault.jpg"
 optimized_image: "https://i.ytimg.com/vi/XTRqMs6SIIc/default.jpg"
-category: "Recharge"
+category: "recharge"
 tags:
   - "technology"
   - "buzz"
