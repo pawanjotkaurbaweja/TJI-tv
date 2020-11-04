@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
-description: A category for life related posts.
+title: LIT
+slug: LIT
+description: A category for LIT related.
 ---

@@ -9,15 +9,15 @@ menu:
   - title: Home
     url: /
   - title: Alright!
-    url: /alright
+    url: /category/alright
   - title: Recharge
-    url: /recharge
+    url: /category/recharge
   - title: Hattke
-    url: /hattke
+    url: /category/hattke
   - title: Binge
-    url: /binge
+    url: /category/binge
   - title: LIT
-    url: /lit
+    url: /category/lit
   - title: Feed
     url: /feed.xml
 email: t@ruskmedia.com
@@ -99,7 +99,7 @@ exclude: [
 
 # Theme
 version: v3.1.0
-
+sub_head: "TV"
 
 ## Defaults by kaaro
 
