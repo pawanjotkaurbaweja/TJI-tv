@@ -8,28 +8,28 @@
 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
-                <p class="post-info">
-                    {% if page.date %}
-                        <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
-                        <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
-                            {% include date.html date=page.date %}
-                        </time>
-                    {% endif %}
-                </p>
-                <h1 class="post-title">{{ page.title }}</h1>
-                <p class="post-subtitle">{{ page.subtitle }}</p>
+                
+                
+                
 
                 {% if page.image and paginator.activated == nil %}
                 <iframe id="ytplayer" type="text/html" width="640" height="360" class="post-cover"
                     src="https://www.youtube.com/embed/{{page.resourceId.videoId}}?autoplay=1&origin=http://rusktv.akriya.co.in&modestbranding=1&rel=0"
                     frameborder="0"></iframe>
                 {% endif %}
-
+                <h3 class="post-title">{{ page.title }}</h3>
+                <p class="post-subtitle">{{ page.subtitle }}</p>
                 {% include pagination-post.html progressBar=true %}
 
                 {% include toc.html %}
-
-                {{ content }}
+                <div class="box">
+                    <input type="checkbox" id="expanded">
+                    <div id="content">{{ content }}</div>
+                    <div class="labelContainer">
+                        <label for="expanded" role="button">read more</label>
+                    </div>
+                </div>
+                
 
                 {% include pagination-post.html %}
             </article>

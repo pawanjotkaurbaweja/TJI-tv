@@ -10,3 +10,55 @@
 .box-item {
     width: 100%;
 }
+.box {
+    padding-bottom: 10px;
+  
+    input {
+      opacity: 0;
+      position: absolute;
+      pointer-events: none;
+    }
+    
+    #content {
+      display: -webkit-box;
+      max-height: 200px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      
+      
+    }
+    
+    input:focus ~ label {
+      outline: -webkit-focus-ring-color auto 5px;
+    }
+    
+    input:checked + #content {
+        max-height: 9999px;
+    }
+    
+    input:checked ~ label,
+    #content:not(.truncated) ~ label{
+      display: none;
+    }
+    
+
+
+    label {
+        border-radius: 4px;
+        padding: 0.2em 0.6em;
+        border: 1px solid #009ce2;
+        background-color: #00acff;
+        color: #fff;
+        font-size: 0.8em;
+        
+      }
+      .labelContainer {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+  }
+
+  
