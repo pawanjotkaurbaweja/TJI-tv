@@ -1,0 +1,61 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "tUlfDkxJ0MkKxuyZh0sx09MP98E",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "4p_gSaaFXHhKIgizfDQ-g8VV8sw",
+      "id": "UCDvcxk7hYgNzf4s8lTmM4zg",
+      "snippet": {
+        "title": "Binge!",
+        "description": "Binge is the word of the decade! And hence, we will bring you binge worthy content to incite humour, laughter, nostalgia and all kinds of emotion in you and help ease your hectic day. Binge watching has officially become the new normal. Our normal will be your new normal which is all about exciting, fun and relatable videos that are straight from our heart to yours.\n\nWe are a bunch of progressive Millennials trying to make the audience feel good and impacted with our progressive storytelling. Videos, that you can relate to, you get sucked into the fantasy of it, or the show exposes you to a world that's different from your own. Or you just might prefer binging a video that you can enjoy and not thinking too hard to figure out timelines and put together the puzzle pieces in the plot. Binge is here to entertain you with nostalgic and déjà vu content.\n\nBinge! for the middle class by the middle class of the middle class.\n\nSo, Chalo Binge Karte Hain",
+        "customUrl": "bingeoriginals",
+        "publishedAt": "2017-05-22T05:08:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyNbA7QhC4yzcCElcVL6iRaDJ849tJHEiCjwXBwoQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyNbA7QhC4yzcCElcVL6iRaDJ849tJHEiCjwXBwoQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJyNbA7QhC4yzcCElcVL6iRaDJ849tJHEiCjwXBwoQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Binge!",
+          "description": "Binge is the word of the decade! And hence, we will bring you binge worthy content to incite humour, laughter, nostalgia and all kinds of emotion in you and help ease your hectic day. Binge watching has officially become the new normal. Our normal will be your new normal which is all about exciting, fun and relatable videos that are straight from our heart to yours.\n\nWe are a bunch of progressive Millennials trying to make the audience feel good and impacted with our progressive storytelling. Videos, that you can relate to, you get sucked into the fantasy of it, or the show exposes you to a world that's different from your own. Or you just might prefer binging a video that you can enjoy and not thinking too hard to figure out timelines and put together the puzzle pieces in the plot. Binge is here to entertain you with nostalgic and déjà vu content.\n\nBinge! for the middle class by the middle class of the middle class.\n\nSo, Chalo Binge Karte Hain"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUDvcxk7hYgNzf4s8lTmM4zg"
+        }
+      },
+      "statistics": {
+        "viewCount": "4402732",
+        "hiddenSubscriberCount": true,
+        "videoCount": "10"
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      }
+    }
+  ]
+}

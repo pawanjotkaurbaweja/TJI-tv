@@ -1,0 +1,62 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "Fx-sdzMuAt-ocIeqcBp6TSdM2Z0",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "os6SIKVcDvCYxU0WcvaP3JAWgvE",
+      "id": "UCCOVUkPaT4ZIy6bvx_OO16Q",
+      "snippet": {
+        "title": "LIT",
+        "description": "LIT is a platform which will take you through three things that define lifestyle i.e. food, fashion and travel. While taking you through the streets of Delhi, our property, FML (Find My Look) features two stylists, Deepali and Divyanshi who randomly pick common people and style them under a limited budget and time to achieve a celebrity look. Our second property Cook Off will take you through orgasmic food preparations prepared by two Delhi dudes Rohit and Abhishek. In every episode these boys will be challenging one another by preparing some lip smacking food. Our third property Can You, Can You Not is all about pushing yourself out of your comfort zone! Our anchor will perform certain tasks and live the life of different people doing different jobs for a day. Our fourth & last property Worth will have two anchors explore common popular spots/things in a post lock-down world to find whether the experience is worth the hype or not.",
+        "customUrl": "litmedia",
+        "publishedAt": "2018-01-05T02:06:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LIT",
+          "description": "LIT is a platform which will take you through three things that define lifestyle i.e. food, fashion and travel. While taking you through the streets of Delhi, our property, FML (Find My Look) features two stylists, Deepali and Divyanshi who randomly pick common people and style them under a limited budget and time to achieve a celebrity look. Our second property Cook Off will take you through orgasmic food preparations prepared by two Delhi dudes Rohit and Abhishek. In every episode these boys will be challenging one another by preparing some lip smacking food. Our third property Can You, Can You Not is all about pushing yourself out of your comfort zone! Our anchor will perform certain tasks and live the life of different people doing different jobs for a day. Our fourth & last property Worth will have two anchors explore common popular spots/things in a post lock-down world to find whether the experience is worth the hype or not."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUCOVUkPaT4ZIy6bvx_OO16Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "17940534",
+        "subscriberCount": "572000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "94"
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      }
+    }
+  ]
+}

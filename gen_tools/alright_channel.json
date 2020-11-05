@@ -1,0 +1,64 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "-l4FuxxnRvLOjJBXnDcWI8rr1Yc",
+  "pageInfo": {
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "5vY5F62h76RdHhxohysYlLPDJv0",
+      "id": "UCCKjHsAIxvjtWG8KOcLuG8Q",
+      "snippet": {
+        "title": "Alright!",
+        "description": "Alright isn't just a word, it's an emotion, a feeling. It is something that can make us feel better in a fraction of a second. Alright is the premium fiction channel that you should be watching because it will make you feel 'alright'!\n\nAlright is your one-stop shop for when you're looking for some comic relief in life. When life gets too hard and you need to lighten the mood, tune into Alright. \n\nFollow Alright now for the best of comedy, sketches and hard-core entertainment!",
+        "customUrl": "alrightsquad",
+        "publishedAt": "2017-09-27T09:12:35Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzCCMQxqutqf0Mb8ScHWwCtLFNbLIpVlIdu6yw5=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzCCMQxqutqf0Mb8ScHWwCtLFNbLIpVlIdu6yw5=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzCCMQxqutqf0Mb8ScHWwCtLFNbLIpVlIdu6yw5=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Alright!",
+          "description": "Alright isn't just a word, it's an emotion, a feeling. It is something that can make us feel better in a fraction of a second. Alright is the premium fiction channel that you should be watching because it will make you feel 'alright'!\n\nAlright is your one-stop shop for when you're looking for some comic relief in life. When life gets too hard and you need to lighten the mood, tune into Alright. \n\nFollow Alright now for the best of comedy, sketches and hard-core entertainment!"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUCKjHsAIxvjtWG8KOcLuG8Q",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      },
+      "statistics": {
+        "viewCount": "226933797",
+        "commentCount": "0",
+        "subscriberCount": "2010000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "124"
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      }
+    }
+  ]
+}

@@ -36,9 +36,6 @@ date: "2020-09-20T19:39:12Z"
 image: "https://i.ytimg.com/vi/ieUkRQlYG3U/hqdefault.jpg"
 optimized_image: "https://i.ytimg.com/vi/ieUkRQlYG3U/default.jpg"
 category: "recharge"
-tags:
-  - "technology"
-  - "buzz"
 layout: "post"
 
 ---
