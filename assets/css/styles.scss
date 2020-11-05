@@ -62,3 +62,13 @@
   }
 
   
+
+  .see-also-each {
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 10px;
+      h5 {
+          text-overflow: ellipsis;
+          margin-left: 5px;
+      }
+  }
