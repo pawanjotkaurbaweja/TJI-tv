@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "NVdiCfPTT7KqL4yEDC1vIqAGnGk",
+  "etag": "Fx-sdzMuAt-ocIeqcBp6TSdM2Z0",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "jqwZ_6nvN4aS7gw-zqHJW-V6o8M",
+      "etag": "os6SIKVcDvCYxU0WcvaP3JAWgvE",
       "id": "UCCOVUkPaT4ZIy6bvx_OO16Q",
       "snippet": {
         "title": "LIT",
@@ -17,17 +17,17 @@
         "publishedAt": "2018-01-05T02:06:19Z",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhODAB-yCqDHJtU0y_-wJTqsRwG0BWZ18MOcWiKrA=s88-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s88-c-k-c0x00ffffff-no-rj",
             "width": 88,
             "height": 88
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhODAB-yCqDHJtU0y_-wJTqsRwG0BWZ18MOcWiKrA=s240-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s240-c-k-c0x00ffffff-no-rj",
             "width": 240,
             "height": 240
           },
           "high": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhODAB-yCqDHJtU0y_-wJTqsRwG0BWZ18MOcWiKrA=s800-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/a/AATXAJzzybs4ecbssWEBnug8inAQI7aA5CqDf2lHCUFZTw=s800-c-k-c0x00ffffff-no-rj",
             "width": 800,
             "height": 800
           }
@@ -46,10 +46,10 @@
         }
       },
       "statistics": {
-        "viewCount": "18460604",
-        "subscriberCount": "576000",
+        "viewCount": "17940534",
+        "subscriberCount": "572000",
         "hiddenSubscriberCount": false,
-        "videoCount": "96"
+        "videoCount": "94"
       },
       "status": {
         "privacyStatus": "public",

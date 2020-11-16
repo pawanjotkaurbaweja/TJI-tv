@@ -5,7 +5,7 @@ const { config } = require("./config.json");
 const request = require("./await-request");
 const moment = require('moment');
 
-const recharge_backup = require('./recharge_uploads.json');
+// const recharge_backup = require('./recharge_uploads.json');
 
 function nameOfPokemonFromId(id) {
   return pokedex.en_pokedex[id - 1].name.english;
@@ -33,7 +33,7 @@ function createFontMatterFromEpisodeData(episode, slug) {
       },
       date: episode.contentDetails.videoPublishedAt,    
       image: episode.snippet.thumbnails.high.url,
-      optimized_image: episode.snippet.thumbnails.default.url,
+      optimized_image: episode.snippet.thumbnails.medium.url,
       category: slug,
       layout: 'post'
     });
@@ -48,7 +48,7 @@ async function getUploadsOfChannel(channelId, slug) {
   console.log({ config });
 
   let ytKey = "AIzaSyCxEzKZcVl37q-rBa7_M2ZttgyIJC9talY";
-  
+
   const channelDetails = await request({
     method: "get",
     url: "https://www.googleapis.com/youtube/v3/channels",
