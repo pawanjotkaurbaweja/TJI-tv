@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Binge!"
 playlistId: "UUDvcxk7hYgNzf4s8lTmM4zg"
-position: 0
+position: 1
 resourceId:
   kind: "youtube#video"
   videoId: "zowHIyw2YTs"
@@ -34,7 +34,7 @@ header:
   teaser: "https://i.ytimg.com/vi/zowHIyw2YTs/mqdefault.jpg"
 date: "2020-11-02T07:31:15Z"
 image: "https://i.ytimg.com/vi/zowHIyw2YTs/hqdefault.jpg"
-optimized_image: "https://i.ytimg.com/vi/zowHIyw2YTs/default.jpg"
+optimized_image: "https://i.ytimg.com/vi/zowHIyw2YTs/mqdefault.jpg"
 category: "binge"
 layout: "post"
 

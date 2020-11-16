@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "LIT"
 playlistId: "UUCOVUkPaT4ZIy6bvx_OO16Q"
-position: 3
+position: 5
 resourceId:
   kind: "youtube#video"
   videoId: "OpPiSexBzYE"
@@ -34,7 +34,7 @@ header:
   teaser: "https://i.ytimg.com/vi/OpPiSexBzYE/mqdefault.jpg"
 date: "2020-10-16T11:46:18Z"
 image: "https://i.ytimg.com/vi/OpPiSexBzYE/hqdefault.jpg"
-optimized_image: "https://i.ytimg.com/vi/OpPiSexBzYE/default.jpg"
+optimized_image: "https://i.ytimg.com/vi/OpPiSexBzYE/mqdefault.jpg"
 category: "LIT"
 layout: "post"
 

@@ -34,7 +34,7 @@ header:
   teaser: "https://i.ytimg.com/vi/ieUkRQlYG3U/mqdefault.jpg"
 date: "2020-09-20T19:39:12Z"
 image: "https://i.ytimg.com/vi/ieUkRQlYG3U/hqdefault.jpg"
-optimized_image: "https://i.ytimg.com/vi/ieUkRQlYG3U/default.jpg"
+optimized_image: "https://i.ytimg.com/vi/ieUkRQlYG3U/mqdefault.jpg"
 category: "recharge"
 layout: "post"
 

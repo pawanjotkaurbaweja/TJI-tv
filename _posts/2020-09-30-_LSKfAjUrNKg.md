@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Alright!"
 playlistId: "UUCKjHsAIxvjtWG8KOcLuG8Q"
-position: 7
+position: 10
 resourceId:
   kind: "youtube#video"
   videoId: "LSKfAjUrNKg"
@@ -34,7 +34,7 @@ header:
   teaser: "https://i.ytimg.com/vi/LSKfAjUrNKg/mqdefault.jpg"
 date: "2020-09-30T09:45:56Z"
 image: "https://i.ytimg.com/vi/LSKfAjUrNKg/hqdefault.jpg"
-optimized_image: "https://i.ytimg.com/vi/LSKfAjUrNKg/default.jpg"
+optimized_image: "https://i.ytimg.com/vi/LSKfAjUrNKg/mqdefault.jpg"
 category: "alright"
 layout: "post"
 

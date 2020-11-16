@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Hattke"
 playlistId: "UUZTnPAzTvTAaLp7U-BrskOQ"
-position: 32
+position: 33
 resourceId:
   kind: "youtube#video"
   videoId: "qtkx7KPqrpU"
@@ -34,7 +34,7 @@ header:
   teaser: "https://i.ytimg.com/vi/qtkx7KPqrpU/mqdefault.jpg"
 date: "2020-02-08T08:30:35Z"
 image: "https://i.ytimg.com/vi/qtkx7KPqrpU/hqdefault.jpg"
-optimized_image: "https://i.ytimg.com/vi/qtkx7KPqrpU/default.jpg"
+optimized_image: "https://i.ytimg.com/vi/qtkx7KPqrpU/mqdefault.jpg"
 category: "hattke"
 layout: "post"
 
