@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "GdUHSaYH0d_6xoyoxtAu21ND1Lo",
+  "etag": "41EtnQ_ezfX56VjaqrpwWtOpW5w",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "wKnbbl-3qxwp0SQvMZmJ9CwgYOU",
+      "etag": "j9oneDNmr2t_nGR8VOSRL0_2AIg",
       "id": "UCiWe-JhZJL3cGpFsZNyU7uA",
       "snippet": {
         "title": "Recharge",
@@ -46,10 +46,10 @@
         }
       },
       "statistics": {
-        "viewCount": "18140867",
-        "subscriberCount": "1030000",
+        "viewCount": "18245917",
+        "subscriberCount": "1020000",
         "hiddenSubscriberCount": false,
-        "videoCount": "138"
+        "videoCount": "142"
       },
       "status": {
         "privacyStatus": "public",

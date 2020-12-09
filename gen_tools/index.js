@@ -7,20 +7,6 @@ const moment = require('moment');
 
 // const recharge_backup = require('./recharge_uploads.json');
 
-function nameOfPokemonFromId(id) {
-  return pokedex.en_pokedex[id - 1].name.english;
-}
-
-function numberOfPokemonFromId(id) {
-  return ("00" + id).slice(-3);
-}
-
-function pokemonImageSourceFromId(id) {
-  var base_str = "00000" + id;
-  var imageName = numberOfPokemonFromId(id);
-  return `https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/thumbnails/${imageName}.png`;
-}
-
 function createFontMatterFromEpisodeData(episode, slug) {
     let data = "";
 
