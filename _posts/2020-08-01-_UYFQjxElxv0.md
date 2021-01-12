@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "LIT"
 playlistId: "UUCOVUkPaT4ZIy6bvx_OO16Q"
-position: 19
+position: 27
 resourceId:
   kind: "youtube#video"
   videoId: "UYFQjxElxv0"

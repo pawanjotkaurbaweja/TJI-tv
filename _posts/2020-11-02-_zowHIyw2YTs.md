@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Binge!"
 playlistId: "UUDvcxk7hYgNzf4s8lTmM4zg"
-position: 1
+position: 5
 resourceId:
   kind: "youtube#video"
   videoId: "zowHIyw2YTs"

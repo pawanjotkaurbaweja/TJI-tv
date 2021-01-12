@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Recharge"
 playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
-position: 39
+position: 45
 resourceId:
   kind: "youtube#video"
   videoId: "UNQ-JembHkU"

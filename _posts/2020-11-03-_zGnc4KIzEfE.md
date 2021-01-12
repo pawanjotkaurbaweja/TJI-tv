@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Alright!"
 playlistId: "UUCKjHsAIxvjtWG8KOcLuG8Q"
-position: 3
+position: 12
 resourceId:
   kind: "youtube#video"
   videoId: "zGnc4KIzEfE"
