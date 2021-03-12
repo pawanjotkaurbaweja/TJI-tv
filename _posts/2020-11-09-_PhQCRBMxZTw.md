@@ -26,10 +26,12 @@ thumbnails:
     height: 720
 channelTitle: "Alright!"
 playlistId: "UUCKjHsAIxvjtWG8KOcLuG8Q"
-position: 11
+position: 29
 resourceId:
   kind: "youtube#video"
   videoId: "PhQCRBMxZTw"
+videoOwnerChannelTitle: "Alright!"
+videoOwnerChannelId: "UCCKjHsAIxvjtWG8KOcLuG8Q"
 header:
   teaser: "https://i.ytimg.com/vi/PhQCRBMxZTw/mqdefault.jpg"
 date: "2020-11-10T07:00:13Z"

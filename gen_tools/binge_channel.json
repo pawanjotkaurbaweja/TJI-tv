@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "1lU7kS86vlY6sKbfi1GJAAXPOzk",
+  "etag": "GRkFuDSX49H5xtXnd-uwdniakDE",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "aGY5K1_ctY1LJK-t9V9PJVYjtpU",
+      "etag": "Zwy6wMO4KkESdLQUYhf69fx7-D8",
       "id": "UCDvcxk7hYgNzf4s8lTmM4zg",
       "snippet": {
         "title": "Binge!",
@@ -46,9 +46,10 @@
         }
       },
       "statistics": {
-        "viewCount": "9376510",
-        "hiddenSubscriberCount": true,
-        "videoCount": "15"
+        "viewCount": "15608544",
+        "subscriberCount": "662000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "20"
       },
       "status": {
         "privacyStatus": "public",

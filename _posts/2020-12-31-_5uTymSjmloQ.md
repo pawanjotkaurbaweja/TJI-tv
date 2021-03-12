@@ -26,10 +26,12 @@ thumbnails:
     height: 720
 channelTitle: "LIT"
 playlistId: "UUCOVUkPaT4ZIy6bvx_OO16Q"
-position: 0
+position: 10
 resourceId:
   kind: "youtube#video"
   videoId: "5uTymSjmloQ"
+videoOwnerChannelTitle: "LIT"
+videoOwnerChannelId: "UCCOVUkPaT4ZIy6bvx_OO16Q"
 header:
   teaser: "https://i.ytimg.com/vi/5uTymSjmloQ/mqdefault.jpg"
 date: "2020-12-31T11:11:50Z"

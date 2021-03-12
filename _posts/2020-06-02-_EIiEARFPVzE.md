@@ -26,10 +26,12 @@ thumbnails:
     height: 720
 channelTitle: "Recharge"
 playlistId: "UUiWe-JhZJL3cGpFsZNyU7uA"
-position: 37
+position: 38
 resourceId:
   kind: "youtube#video"
   videoId: "EIiEARFPVzE"
+videoOwnerChannelTitle: "Recharge"
+videoOwnerChannelId: "UCiWe-JhZJL3cGpFsZNyU7uA"
 header:
   teaser: "https://i.ytimg.com/vi/EIiEARFPVzE/mqdefault.jpg"
 date: "2020-06-02T14:15:53Z"

@@ -1,11 +1,62 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "xVpYgYaaWX3i7V7NbYSwuEteJ8U",
+  "etag": "l7uQ4reIWUvEks3lQKty1MZqoCI",
   "nextPageToken": "CDIQAA",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "viUHlgpIatmvvF3DKNHkv2q1sY8",
+      "etag": "Qm8shQbGXP0XNhgrUWGSJabd0OA",
+      "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnZiUDJlUURMdzdz",
+      "snippet": {
+        "publishedAt": "2021-03-10T06:51:46Z",
+        "channelId": "UCiWe-JhZJL3cGpFsZNyU7uA",
+        "title": "Fan2Play - Best Gaming Earning App 2021",
+        "description": "Download Fan2Play, India's Quickest Fantasy App and get a Welcome Bonus offer of 200% on your First Deposit up to INR 10,000.  https://app.adjust.net.in/rw48ejc  \nFan2Play is surely the best gaming earning app 2021\n\nDo you like taking on new challenges and love gaming online? Challenge anyone and anytime according to your own choice of teams. Because what could be better than playing and winning at the same time. Fan2Play is a unique way of gaming and enjoying fantasy sports with a credible gaming experience. #onlinegaming #gamingearning #earnfromgames\n\nTo all cricket fans, check out this video to know what this app has to offer you. So make sure to watch this video till the end to explore some interesting features about the app and challenge your friends now. Subscribe to Recharge for more awesome content: http://bit.ly/rechargetech\n\nFor more such cool #tech video follow Recharge on other social platforms as well:\nInstagram: https://www.instagram.com/recharge_tech/\nFacebook: https://www.facebook.com/recharge.rusk/\nTwitter: https://twitter.com/tech_recharge\n\n Connect with Fabn2Play here:\nInstagram: https://www.instagram.com/fan2play/?hl=en\nFacebook: https://www.facebook.com/fa2play/\n\n#fan2play #fantasycricket #letspanga #panga\n\nIf you wish to know about the gaming earning app 2021, fantasy cricket,fantasy sports,earn money online,gaming app,gaming app 2021,earning app, then you must watch this Recharge Tech latest video on fan2play fantasy app, how to play fan2play feat. Prince Chandra tech. \n\nAlso for more such informative market watch videos from Recharge Tech check out our playlist: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF\n\nRecharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. \nIf you wish to know about the gaming earning app 2021, fantasy cricket,fantasy sports,earn money online,gaming app,gaming app 2021,earning app, then you must watch this Recharge Tech latest video on fan2play fantasy app, how to play fan2play feat. Prince Chandra tech. \n\nRecharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. \nIf you wish to know about the gaming earning app 2021, fantasy cricket,fantasy sports,earn money online,gaming app,gaming app 2021,earning app, then you must watch this Recharge Tech latest video on fan2play fantasy app, how to play fan2play feat. Prince Chandra tech. Think unboxing top smartphone reviews, budget buys, hi-tech specs, and most importantly, #technews about the latest gadgets you need for your social media feed! \n\nOur latest #gadget comparison and smartphone #reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product. If you wish to know about the gaming earning app 2021, fantasy cricket,fantasy sports,earn money online,gaming app,gaming app 2021,earning app, then you must watch this Recharge Tech latest video on fan2play fantasy app, how to play fan2play feat. Prince Chandra tech. \n\nIf you need the inside scoop on the newest #mobile launch, this channel is where you need to be. If you like videos from Technical Guruji, #Geekyranjit, #C4ETech, #SidTalk, and Sharmaji Technical then you will also like videos from Recharge. If you wish to know about the gaming earning app 2021, fantasy cricket,fantasy sports,earn money online,gaming app,gaming app 2021,earning app, then you must watch this Recharge Tech latest video on fan2play fantasy app, how to play fan2play feat. Prince Chandra tech.  Recharge will bring you videos on smartphone review, #bestphone 2019, best camera phones, unboxing videos, first look, and the best android new phone.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vbP2eQDLw7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vbP2eQDLw7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vbP2eQDLw7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vbP2eQDLw7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vbP2eQDLw7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Recharge",
+        "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vbP2eQDLw7s"
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
+      },
+      "contentDetails": {
+        "videoId": "vbP2eQDLw7s",
+        "videoPublishedAt": "2021-03-10T09:58:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P7THxD9NAMkhKUnmErQwjRNK7zM",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmwzdDB0QUFhdjBR",
       "snippet": {
         "publishedAt": "2020-12-25T05:47:01Z",
@@ -41,11 +92,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l3t0tAAav0Q"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "l3t0tAAav0Q",
@@ -54,7 +107,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gbhkhs7lJOZRHUdzXbvPt7fultA",
+      "etag": "TmkF1yrvCfzVba_9FwyfxbelLg4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLl9vSU1aTjZUdFU4",
       "snippet": {
         "publishedAt": "2020-12-18T10:05:48Z",
@@ -90,11 +143,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_oIMZN6TtU8"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "_oIMZN6TtU8",
@@ -103,7 +158,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "20Y67exTg2BZzFVVRTkIfAXPitY",
+      "etag": "hYMZ4yKYiZoB9AvgEmlygDR-GWg",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlE5S2pzZWcyY2pZ",
       "snippet": {
         "publishedAt": "2020-11-29T13:41:53Z",
@@ -139,11 +194,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q9Kjseg2cjY"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Q9Kjseg2cjY",
@@ -152,7 +209,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "pR_L8lujwoK9je5M2T789jJkdOE",
+      "etag": "3cSx6TiV5nbKF82MeCFtB0ystgQ",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmdQakNIUnh1MkVV",
       "snippet": {
         "publishedAt": "2020-11-22T14:15:20Z",
@@ -188,11 +245,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gPjCHRxu2EU"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "gPjCHRxu2EU",
@@ -201,7 +260,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Al57rLVt-uAO4yPInKzKCghc88g",
+      "etag": "XhuENZY4sV0ywh72ASefAUx2MRI",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlBhNXo0bHpYcFF3",
       "snippet": {
         "publishedAt": "2020-11-20T08:31:59Z",
@@ -237,11 +296,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Pa5z4lzXpQw"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Pa5z4lzXpQw",
@@ -250,7 +311,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-FTNDZTHGYfbI-sFsqS-Ddhf8T4",
+      "etag": "Pvg8jOoDjn04Xr5iDWmF2PzqLWs",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmF6RXdjT0I4aF9J",
       "snippet": {
         "publishedAt": "2020-11-19T09:43:17Z",
@@ -286,11 +347,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "azEwcOB8h_I"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "azEwcOB8h_I",
@@ -299,7 +362,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TjF8o1hRL1U1zCKhaHwccxryanc",
+      "etag": "5pKE0K9175rXcwcV3pvFuKeNEpo",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLl9KbDNWQWhRSzJv",
       "snippet": {
         "publishedAt": "2020-10-22T15:22:04Z",
@@ -335,11 +398,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_Jl3VAhQK2o"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "_Jl3VAhQK2o",
@@ -348,7 +413,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cFVWC32j0IrGxkMXTeoTIHTCYZs",
+      "etag": "O22oqT3a03FZemMhSgMbF-n5-xk",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkJ4OEtjaXltMmRv",
       "snippet": {
         "publishedAt": "2020-10-20T12:11:27Z",
@@ -379,11 +444,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Bx8Kciym2do"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Bx8Kciym2do",
@@ -392,7 +459,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LUfNZycXx3W7_Z5byNKYg5CNC5E",
+      "etag": "lQ6fq_JXCCC0XW7AAsymMJytgvw",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlp3bWhKVDNyVExB",
       "snippet": {
         "publishedAt": "2020-10-13T11:28:18Z",
@@ -423,11 +490,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZwmhJT3rTLA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "ZwmhJT3rTLA",
@@ -436,7 +505,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uL-qzqLM4uXV-L6eB6rYnsd_BOQ",
+      "etag": "X6HYMF5buplyqxWujCoLNIVGXnI",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLldIbDE5M3p5T24w",
       "snippet": {
         "publishedAt": "2020-10-09T04:57:45Z",
@@ -467,11 +536,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WHl193zyOn0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "WHl193zyOn0",
@@ -480,7 +551,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "soDNtgVDjZ2niS_EdvKV_ROjd0M",
+      "etag": "Z6EZSGdr9sY2aOouQ3cumQ8O0X4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmZ6d3NPNG82LW9J",
       "snippet": {
         "publishedAt": "2020-10-08T11:53:40Z",
@@ -516,11 +587,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fzwsO4o6-oI"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "fzwsO4o6-oI",
@@ -529,7 +602,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gJeu_izpqgD9oGmrwYDnL7ZAJt4",
+      "etag": "mr4yx5sEKlW8guU4V2u1xdy1QLs",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkdjMTljaC1kT1lV",
       "snippet": {
         "publishedAt": "2020-10-06T06:34:38Z",
@@ -565,11 +638,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 11,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Gc19ch-dOYU"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Gc19ch-dOYU",
@@ -578,7 +653,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c7uqHZrPFgETHUrUbHUmwYuDSGw",
+      "etag": "S2xENbO6z-R83JVoHUR9wJE1wmI",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk9FbTU0OEpDeHo0",
       "snippet": {
         "publishedAt": "2020-09-25T05:02:48Z",
@@ -614,11 +689,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 12,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "OEm548JCxz4"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "OEm548JCxz4",
@@ -627,7 +704,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Cm_JTP7ohtNvQUunO9lhALF_Vfg",
+      "etag": "z-tuHmWh69RjnPMih-Vi9gHNkiw",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLndDQzdnLWpPQUtN",
       "snippet": {
         "publishedAt": "2020-09-23T13:11:59Z",
@@ -663,11 +740,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "wCC7g-jOAKM"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "wCC7g-jOAKM",
@@ -676,7 +755,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "C_QUHSVOCRUIEHEQwuvO0-vFKDQ",
+      "etag": "SJ_LdD2hThbTwRrTnH3ZeJWbqvo",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkQtZnV2VkRNdnpV",
       "snippet": {
         "publishedAt": "2020-09-10T18:26:56Z",
@@ -712,11 +791,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 14,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "D-fuvVDMvzU"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "D-fuvVDMvzU",
@@ -725,7 +806,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yrjXGPmpjNE5z_j4UdGLqDlm96w",
+      "etag": "ln7XaUlgKkDC4QWVOs5cVBS07MU",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmllVWtSUWxZRzNV",
       "snippet": {
         "publishedAt": "2020-09-19T08:33:35Z",
@@ -761,11 +842,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 15,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ieUkRQlYG3U"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "ieUkRQlYG3U",
@@ -774,7 +857,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "whRjPiRak5RHZsPa_RFhFgbOwTo",
+      "etag": "2o02Yd2EX8-exPm-XQyI7kIzqqs",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLktoa19nTHF4MVNB",
       "snippet": {
         "publishedAt": "2020-09-11T13:25:52Z",
@@ -810,11 +893,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 16,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Khk_gLqx1SA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Khk_gLqx1SA",
@@ -823,7 +908,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fTsLglFJLL8_vExMbER_d2lyiZo",
+      "etag": "R-tgps8ctavNH_RB-Ztwzch7aMI",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk5Zak5XRm1uQ0tB",
       "snippet": {
         "publishedAt": "2020-08-28T17:27:10Z",
@@ -859,11 +944,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 17,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NYjNWFmnCKA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "NYjNWFmnCKA",
@@ -872,7 +959,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sXftd60dllW1hhzFwcGqUFhMiEc",
+      "etag": "qTKvVwWUaWHlFHi8BiGd6XcKdkw",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlEwSzVzSlduQkJZ",
       "snippet": {
         "publishedAt": "2020-08-18T09:57:41Z",
@@ -908,11 +995,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 18,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q0K5sJWnBBY"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Q0K5sJWnBBY",
@@ -921,7 +1010,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iYec7IYpBb7yVX1OSkMN0RQZc7Y",
+      "etag": "n_fZlgIfmlcn90uzRSFvhuqnmn0",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmRqSVdFMEl6Z3dv",
       "snippet": {
         "publishedAt": "2020-08-05T11:59:36Z",
@@ -957,11 +1046,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 19,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "djIWE0Izgwo"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "djIWE0Izgwo",
@@ -970,7 +1061,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6W0L01vPwhMnN8pAs2SkJuilBF8",
+      "etag": "qGo0f6hRk0tzhcVRheSZdpUC6Bc",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLktZQXdIMll1TENN",
       "snippet": {
         "publishedAt": "2020-08-04T08:35:13Z",
@@ -1006,11 +1097,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 20,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KYAwH2YuLCM"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "KYAwH2YuLCM",
@@ -1019,7 +1112,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Uii8hmLMfgijpunxuohNSGL1DOk",
+      "etag": "RUlblM330wYS1DOPcwdc1mZUJ3A",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnRxLWxkTUNkRjNv",
       "snippet": {
         "publishedAt": "2020-07-30T16:25:01Z",
@@ -1055,11 +1148,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 21,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "tq-ldMCdF3o"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "tq-ldMCdF3o",
@@ -1068,7 +1163,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AQmTppPHgKU75Cm-JxhvzMxFVdM",
+      "etag": "THk8ejbX6Hn4jNjN-GRZryFfLXE",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnQ4OTlFWjZlT1Ew",
       "snippet": {
         "publishedAt": "2020-08-01T12:42:36Z",
@@ -1104,11 +1199,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 22,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "t899EZ6eOQ0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "t899EZ6eOQ0",
@@ -1117,7 +1214,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "42a_iYPwrvPlbeSd24LN_TCvZMI",
+      "etag": "00O7GUOquqhmRfba1MMeUXvcRkA",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk5PRS10QjlNSHJz",
       "snippet": {
         "publishedAt": "2020-07-22T10:43:53Z",
@@ -1153,11 +1250,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 23,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NOE-tB9MHrs"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "NOE-tB9MHrs",
@@ -1166,7 +1265,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4iA7mjfSGz6qaUIgIsovb_3vz_s",
+      "etag": "fYMeiMKFmMqmlaDbTa9vvwUgp9A",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjRjYnVIcldUY0ow",
       "snippet": {
         "publishedAt": "2020-07-15T11:48:46Z",
@@ -1202,11 +1301,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 24,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4cbuHrWTcJ0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "4cbuHrWTcJ0",
@@ -1215,7 +1316,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EYsWabse_UZXGm1a-vXhAsDCIiM",
+      "etag": "t6uWQsIMBM8iksSgwyx4ykSOLJc",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjNSZXNoaWczTEQ0",
       "snippet": {
         "publishedAt": "2020-07-09T06:45:33Z",
@@ -1251,11 +1352,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 25,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "3Reshig3LD4"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "3Reshig3LD4",
@@ -1264,7 +1367,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Zq2yZD6UruHW8b4w4PgVMwqRr0A",
+      "etag": "HWqr0l_4HdwfXASx4E-Ys7G6fvg",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkl6cS1XU0J5THJB",
       "snippet": {
         "publishedAt": "2020-07-09T15:17:08Z",
@@ -1300,11 +1403,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 26,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Izq-WSByLrA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Izq-WSByLrA",
@@ -1313,7 +1418,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b_EZHHS1QPtMJ9bXxVSsj75bDfY",
+      "etag": "y4v6xJAMyg1kKr9vf5g3dXMZqyA",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlhUUnFNczZTSUlj",
       "snippet": {
         "publishedAt": "2020-06-30T11:30:54Z",
@@ -1349,11 +1454,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 27,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "XTRqMs6SIIc"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "XTRqMs6SIIc",
@@ -1362,7 +1469,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BxG-dDeMOOgsc1rC5NN1nUz9dro",
+      "etag": "bS_6Q1y1lV2HgR42Gc3rU5F3CVA",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLml1WXVKcE11TC1N",
       "snippet": {
         "publishedAt": "2020-06-25T08:40:34Z",
@@ -1398,11 +1505,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 28,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iuYuJpMuL-M"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "iuYuJpMuL-M",
@@ -1411,7 +1520,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UXV0P5INUkn6c08NWtoqzwfqlDM",
+      "etag": "XiOH7IUNBTk05ffwz00aLkCzKqU",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkhqZm41Wjd3a2hB",
       "snippet": {
         "publishedAt": "2020-06-23T08:25:03Z",
@@ -1447,11 +1556,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 29,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Hjfn5Z7wkhA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Hjfn5Z7wkhA",
@@ -1460,7 +1571,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vK03hzCp9qkR-SINf-T-JU0aNuY",
+      "etag": "IvkiJrL2-TfSZgfOKvqBNdAS3D4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlBCeXdvYVpjLTRR",
       "snippet": {
         "publishedAt": "2020-06-20T15:36:27Z",
@@ -1496,11 +1607,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 30,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PBywoaZc-4Q"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "PBywoaZc-4Q",
@@ -1509,7 +1622,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a2kBI1XnIWG5G8_QLjs9cVmyf8k",
+      "etag": "7qC3ieQpxjcil6aOcUdcDY-Yx3o",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnBwVkRiNjVKY05B",
       "snippet": {
         "publishedAt": "2020-06-18T09:55:25Z",
@@ -1545,11 +1658,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 31,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ppVDb65JcNA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "ppVDb65JcNA",
@@ -1558,7 +1673,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BVgVDAqvqXc1_WP0qMNPEyuIJC8",
+      "etag": "Q4Ma6XmBo3l-5ONFMCja61ePIrc",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk5YR3BmVXZYSDVj",
       "snippet": {
         "publishedAt": "2020-06-16T08:36:21Z",
@@ -1594,11 +1709,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 32,
+        "position": 33,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NXGpfUvXH5c"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "NXGpfUvXH5c",
@@ -1607,7 +1724,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vIlU8Iw4Mel54QJ4OfE6tImBzwY",
+      "etag": "YgsWZ1f3Dow2hJUzSloPb3TdS9Q",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkFGZEFUeC1rNlIw",
       "snippet": {
         "publishedAt": "2020-06-15T14:24:09Z",
@@ -1643,11 +1760,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 33,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "AFdATx-k6R0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "AFdATx-k6R0",
@@ -1656,7 +1775,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MAX69cVn20JV4xouLmRpn81_IIM",
+      "etag": "r3kQbqtZTD-706Ial-rF3_gEH28",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLldTMG9ZUmxaOV9r",
       "snippet": {
         "publishedAt": "2020-06-13T07:55:57Z",
@@ -1692,11 +1811,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 34,
+        "position": 35,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WS0oYRlZ9_k"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "WS0oYRlZ9_k",
@@ -1705,7 +1826,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ywwIGMG9iU1Qwfe0Mket9zg4tjw",
+      "etag": "_9veS6GKNGVfkSRLJ12n9zc5kG4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmVLeUxRVWwzaXpJ",
       "snippet": {
         "publishedAt": "2020-06-11T19:07:09Z",
@@ -1741,11 +1862,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 35,
+        "position": 36,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eKyLQUl3izI"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "eKyLQUl3izI",
@@ -1754,7 +1877,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_QU2Oi4dJuGDBpIwKXsM1mR20iM",
+      "etag": "YLgVDXrKP-P3P6Ry33I7wMmFdOE",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnRkbkRqX0ZZMk5B",
       "snippet": {
         "publishedAt": "2020-06-09T08:01:46Z",
@@ -1790,11 +1913,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 36,
+        "position": 37,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "tdnDj_FY2NA"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "tdnDj_FY2NA",
@@ -1803,7 +1928,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iYwvZnKKegY66TTOX8qMnkib6mE",
+      "etag": "lDeSVrSUII4gRKe10h04EGDEKO4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkVJaUVBUkZQVnpF",
       "snippet": {
         "publishedAt": "2020-06-02T07:55:47Z",
@@ -1839,11 +1964,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 37,
+        "position": 38,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EIiEARFPVzE"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "EIiEARFPVzE",
@@ -1852,7 +1979,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "dwzHBStUrS6nPJeEPzI5bFF_vnM",
+      "etag": "T1364r7gO1d6UEQL5kMg_YWvqv0",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk5udTFGRkF5TjFB",
       "snippet": {
         "publishedAt": "2020-05-28T10:20:40Z",
@@ -1888,11 +2015,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 38,
+        "position": 39,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Nnu1FFAyN1A"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Nnu1FFAyN1A",
@@ -1901,7 +2030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sywr4ndaIhUdYDJmbNB_harsv6U",
+      "etag": "BBzbgxJLzvZvyLWBh8rF1_xePuA",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnFmUzdBc2UwYUVJ",
       "snippet": {
         "publishedAt": "2020-05-26T09:09:24Z",
@@ -1937,11 +2066,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 39,
+        "position": 40,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qfS7Ase0aEI"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "qfS7Ase0aEI",
@@ -1950,7 +2081,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TmbiTd5LEmNhkZMUSozr-TtEXfA",
+      "etag": "vVQuYMYwHgssjAa8hHLkkbkaLN4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlVuMWpvWHdsM20w",
       "snippet": {
         "publishedAt": "2020-05-22T04:39:15Z",
@@ -1986,11 +2117,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 40,
+        "position": 41,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Un1joXwl3m0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Un1joXwl3m0",
@@ -1999,7 +2132,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CV8sNoHejB1MqyO_RzlBbNxIcWk",
+      "etag": "QsEQAoMDJ-GrMFNaBRCHmjBzXSo",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmxlNVMyaEFFLURz",
       "snippet": {
         "publishedAt": "2020-05-14T19:57:32Z",
@@ -2035,11 +2168,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 41,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "le5S2hAE-Ds"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "le5S2hAE-Ds",
@@ -2048,7 +2183,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2iDxlV1bFZmBFTGuQ7J4O-MjFMI",
+      "etag": "Zs0ypxcM5MOt9bF42leFyXGoq8c",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkUzQWswODFzUzhZ",
       "snippet": {
         "publishedAt": "2020-04-29T13:01:58Z",
@@ -2084,11 +2219,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 42,
+        "position": 43,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "E3Ak081sS8Y"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "E3Ak081sS8Y",
@@ -2097,7 +2234,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "SPEXSHhxyX29Dd4RsCASmH_XyqM",
+      "etag": "-3Zyk-lrIQ9lhwpgZwEgCBBFj14",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjFlcGhIanktTVNj",
       "snippet": {
         "publishedAt": "2020-04-27T14:23:54Z",
@@ -2133,11 +2270,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 43,
+        "position": 44,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1ephHjy-MSc"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "1ephHjy-MSc",
@@ -2146,7 +2285,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LprrWKwAtau5fBSnZsR0IZYr_7o",
+      "etag": "B4JYhgCavpzXEePOpTX3fpppfB8",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkJtTU41U0o1dlUw",
       "snippet": {
         "publishedAt": "2020-04-21T12:46:24Z",
@@ -2182,11 +2321,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 44,
+        "position": 45,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BmMN5SJ5vU0"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "BmMN5SJ5vU0",
@@ -2195,7 +2336,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rXh-yC-soeI5GZQ8i7Nc6Bgs6VA",
+      "etag": "Ve57P0C6UYKEMgCvtb6zWvNzXY0",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlVOUS1KZW1iSGtV",
       "snippet": {
         "publishedAt": "2020-04-15T21:46:30Z",
@@ -2231,11 +2372,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 45,
+        "position": 46,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UNQ-JembHkU"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "UNQ-JembHkU",
@@ -2244,7 +2387,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zINfouWH6xzy_xihUbYlt367hcY",
+      "etag": "PlJ1Qt-r9KZFE3XORpND2As3Q38",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkhuVGhJdzV5NDNF",
       "snippet": {
         "publishedAt": "2020-04-07T06:25:44Z",
@@ -2280,11 +2423,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 46,
+        "position": 47,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HnThIw5y43E"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "HnThIw5y43E",
@@ -2293,7 +2438,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VomG5UPj0flKopfuP4z6XIUhfoU",
+      "etag": "mYw8Yp3MQn0687ln03EDW5XA8fQ",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlpqYl9nTUNmMlY0",
       "snippet": {
         "publishedAt": "2020-03-28T05:53:27Z",
@@ -2329,11 +2474,13 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 47,
+        "position": 48,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Zjb_gMCf2V4"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "Zjb_gMCf2V4",
@@ -2342,7 +2489,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yl6Xp-93BT4A2DugsQ2Kh6dYE98",
+      "etag": "8WtBH2v9FU4Y325ZHx_IcJ4VZ10",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmpyclFyYkgtUDFj",
       "snippet": {
         "publishedAt": "2020-03-27T11:11:16Z",
@@ -2378,69 +2525,22 @@
         },
         "channelTitle": "Recharge",
         "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 48,
+        "position": 49,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jrrQrbH-P1c"
-        }
+        },
+        "videoOwnerChannelTitle": "Recharge",
+        "videoOwnerChannelId": "UCiWe-JhZJL3cGpFsZNyU7uA"
       },
       "contentDetails": {
         "videoId": "jrrQrbH-P1c",
         "videoPublishedAt": "2020-03-27T14:10:36Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2C-eRpyONbUiJZXiOtLRnlTOKx4",
-      "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjVQQnZmNmlNQTBJ",
-      "snippet": {
-        "publishedAt": "2020-03-21T08:51:34Z",
-        "channelId": "UCiWe-JhZJL3cGpFsZNyU7uA",
-        "title": "Exploring Background Editing with Pixaloop | ft. Anicka Tik Tok",
-        "description": "Bring your photos to life in just a few taps. Create animated pictures, from a flicker of flame to cascading waterfalls - the creative possibilities are endless. Pixaloop lets you create and edit moving photos with easy and powerful editing tools. \n\nGet the best welcome cash bonus https://bit.ly/3hPHV3B\n\nDownload Pixaloop here: https://go.onelink.me/K0Iz/a76211d5 👈\n\nSo, if you wish to make your #pictures and videos more #creative then watch ahead this full video and make your Instagram game strong. For more such interesting and insightful tech, videos do subscribe to our channel Recharge: http://bit.ly/rechargetech\n\nAbout Pixaloop:\nPixaloop allows you to easily edit photos with powerful, precise, and easy to use picture animation tools. The photo editor lets you see your image come to life with real-time edits as you create mesmerizing art in moments. Pixaloop brings life to images, creating moving pictures and cinemagraphs that will wow anyone from your friends to your followers - best of all, it's a free photo animation app. Animate photos and add video effects to watch your image come to life as incredible videos that boomerang back and forth or flow like a GIF.\n\nFor more such cool #tech video follow Recharge on other #social platforms as well: Instagram: https://www.instagram.com/recharge_tech/ Facebook: https://www.facebook.com/recharge.rusk/ Twitter: https://twitter.com/tech_recharge\n\nMore about Anicka:\nShyrin Anicka is a famous Indian Tiktok star. Anicka is also a social media influencer. Anicka is a Delhi girl with fans all around the country. Anicka is famous for Tiktok videos, cuteness, and dance. She makes mostly slow-motion videos and all videos are amazing. To know more about Shyrin Anicka follow her on other social media platforms as well: \nInstagram: https://www.instagram.com/shyrinn_anicka/ \nTikTok: https://www.tiktok.com/@shyrinnanicka?lang=en\n\nMore about Recharge: Recharge, the ultimate YouTube tech channel speaks to the youth of this country, and we speak the language of the newest top #smartphones, the best #laptops, the most awesome #smartwatches, the coolest science experiments, the most mind-blowing science inventions around us and more. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Think #unboxing top smartphone reviews, #budgetbuys, hi-tech specs and most importantly, #technews about the latest gadgets you need for your social media feed!\n\nIf you wish to get more updated with tech market then watch ahead our playlist market watch: https://www.youtube.com/playlist?list=PLodNTMC3WzjjFm3mZZSm3xIATZe-XG8YF\n\nOur latest gadget comparison and smartphone reviews will tell you all that you need to keep up with your social media life as well as IRL. We have an unboxing video for every new OMG product and a list of the most SPEC-tacular latest gadgets comparison for every one of your needs. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from Recharge. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone.\n\nFalling short of those dolla dolla bills? Worry not! Our \"In My Budget\" segment will keep you afloat during the month-end. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like our videos. We scout out the best phones and gadgets comparison under a budget, try it out and tell you exactly where you should be spending those Ks. Got an experiment you wanna try out? \n\nSo, stay on to watch us discover the best of the tech trends and news, the newest phone and gadget #launches, and rocking science experiments and break it down for every tech dummy in India. Recharge will bring you videos on smartphone review, best phone 2019, best camera phones, unboxing videos, first look, and the best android new phone. If you like videos from Technical Guruji, Geekyranjit, C4ETech, SidTalk, and Sharmaji Technical then you will also like videos from our channel Make easier choices, know exactly which cool gadget to get and start killing it in your social group by gadget comparison. pixaloop tutorial how to use pixaloop pixaloop app tech review anika tik tok",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5PBvf6iMA0I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5PBvf6iMA0I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5PBvf6iMA0I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5PBvf6iMA0I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5PBvf6iMA0I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Recharge",
-        "playlistId": "UUiWe-JhZJL3cGpFsZNyU7uA",
-        "position": 49,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "5PBvf6iMA0I"
-        }
-      },
-      "contentDetails": {
-        "videoId": "5PBvf6iMA0I",
-        "videoPublishedAt": "2020-03-24T08:42:47Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 144,
+    "totalResults": 145,
     "resultsPerPage": 50
   }
 }

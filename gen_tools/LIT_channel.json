@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "QZjmJ4FVtcxghXvEMjFCc_qKe4Q",
+  "etag": "Hj_sgvONi75bMOITxPjkZi5-ejM",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "O6nhFbLAKNuvefl2pl2Mh61yOq4",
+      "etag": "vRkrybPw77aw_r7Di3qIHRNzTO4",
       "id": "UCCOVUkPaT4ZIy6bvx_OO16Q",
       "snippet": {
         "title": "LIT",
@@ -46,10 +46,10 @@
         }
       },
       "statistics": {
-        "viewCount": "21348579",
-        "subscriberCount": "594000",
+        "viewCount": "24884780",
+        "subscriberCount": "606000",
         "hiddenSubscriberCount": false,
-        "videoCount": "104"
+        "videoCount": "114"
       },
       "status": {
         "privacyStatus": "public",

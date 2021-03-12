@@ -26,10 +26,12 @@ thumbnails:
     height: 720
 channelTitle: "Binge!"
 playlistId: "UUDvcxk7hYgNzf4s8lTmM4zg"
-position: 6
+position: 11
 resourceId:
   kind: "youtube#video"
   videoId: "4ChiXdQzDzw"
+videoOwnerChannelTitle: "Binge!"
+videoOwnerChannelId: "UCDvcxk7hYgNzf4s8lTmM4zg"
 header:
   teaser: "https://i.ytimg.com/vi/4ChiXdQzDzw/mqdefault.jpg"
 date: "2020-10-26T15:21:09Z"

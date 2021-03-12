@@ -26,10 +26,12 @@ thumbnails:
     height: 720
 channelTitle: "Hattke"
 playlistId: "UUZTnPAzTvTAaLp7U-BrskOQ"
-position: 5
+position: 18
 resourceId:
   kind: "youtube#video"
   videoId: "QHOtdrCwQpo"
+videoOwnerChannelTitle: "Hattke"
+videoOwnerChannelId: "UCZTnPAzTvTAaLp7U-BrskOQ"
 header:
   teaser: "https://i.ytimg.com/vi/QHOtdrCwQpo/mqdefault.jpg"
 date: "2020-09-25T07:45:47Z"
