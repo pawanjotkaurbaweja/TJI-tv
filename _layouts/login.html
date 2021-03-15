@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="post">
+  <article class="post-content fullwidth">
+  <h2>Login via OTP</h2>
+    <div class="contact-form form-div">
+        <form id="get-otp" action="">
+            <div class="phone-div">
+              <label for="phonenumber">Mobile Number</label>
+              <input type="number" name="phonenumber" id="phonenumber" />
+              <button onclick="onRequestOTP(event)">Request OTP</button>
+            </div>
+          </form>
+          <form id="otp-form" hidden>
+            <div id="otp-field">
+              <label for="otp-input" class="mdc-floating-label">6-digit code</label>
+
+              <input
+                type="text"
+                inputmode="numeric"
+                is="web-otp"
+                id="otp-input"
+                autocomplete="one-time-code"
+                pattern="^([0-9]+)$"
+                required
+              />
+              <button onclick="verifyOTP(event)"> Verify </button>
+            </div>
+          </form>
+    </div>
+    
+  </article>
+</div>
+
+
+<script>
+
+    function onRequestOTP(e) {
+        e.preventDefault();
+        e.target.disabled = true;
+        console.log('Not redirecting');
+        let phonenumber = document.getElementById('phonenumber').value;
+        let otpForm = document.getElementById('otp-form');
+        otpForm.hidden = false;
+    }
+
+    function verifyOTP(e) {
+
+    }
+
+    function requestOTPfirebaseFunctionTrigger(phoneNumber) {
+        
+    }
+
+</script>
