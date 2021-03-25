@@ -13,5 +13,5 @@ function checkIfUserLoggedInOrRedirect() {
     }
 }
 
-
-checkIfUserLoggedInOrRedirect();
+setInterval(checkIfUserLoggedInOrRedirect, 10000)       //For PROD
+// checkIfUserLoggedInOrRedirect();                     // Only to test
