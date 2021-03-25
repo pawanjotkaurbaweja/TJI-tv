@@ -5,7 +5,30 @@ layout: default
 <div class="post">
 
   <article class="post-content fullwidth">
+  <div id="loggedInfo"></div>
+
     {{ content }}
   </article>
 
 </div>
+
+
+<script>
+  function checkIfUserLoggedInAndUpdateDOM() {
+    let lastLocalstorageValue = localStorage.getItem('kw_logged_data');
+    console.log(lastLocalstorageValue);
+
+    if(lastLocalstorageValue == undefined) {
+      document.getElementById('loggedInfo').innerHTML = `
+      <h3> Looks like you are not logged-in </h3>
+      <p> Please <a href="/login" class="href">login</a> to continue to browse. </p>
+      `
+    }
+    else {
+
+    }
+  }
+
+
+  checkIfUserLoggedInAndUpdateDOM()
+</script>

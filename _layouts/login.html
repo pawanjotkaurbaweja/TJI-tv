@@ -10,7 +10,7 @@ layout: default
             <div class="phone-div">
               <label for="phonenumber">Mobile Number</label>
               <input type="number" name="phonenumber" id="phonenumber" />
-              <button onclick="onRequestOTP(event)">Request OTP</button>
+              <button id="requestOTPBtn" onclick="onRequestOTP(event)">Request OTP</button>
             </div>
           </form>
           <form id="otp-form" hidden>
@@ -30,28 +30,14 @@ layout: default
             </div>
           </form>
     </div>
-    
+    <div id="sendUserInfo"></div>
   </article>
 </div>
 
+<script src="{{ '/assets/js/customLogin.js' | prepend: site.baseurl }}"></script>
 
 <script>
 
-    function onRequestOTP(e) {
-        e.preventDefault();
-        e.target.disabled = true;
-        console.log('Not redirecting');
-        let phonenumber = document.getElementById('phonenumber').value;
-        let otpForm = document.getElementById('otp-form');
-        otpForm.hidden = false;
-    }
 
-    function verifyOTP(e) {
-      console.log(`Verify OTP request`);
-    }
-
-    function requestOTPfirebaseFunctionTrigger(phoneNumber) {
-        
-    }
 
 </script>
