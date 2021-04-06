@@ -65,6 +65,7 @@
   h6,
   ul,
   ol,
+  .form-div,
   iframe {
     @include center(rem(800px));
     @include mainFont(400);

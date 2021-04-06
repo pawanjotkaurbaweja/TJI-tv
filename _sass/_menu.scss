@@ -87,4 +87,20 @@ aside.sidebar {
       }
     }
   }
+  .account-div {
+    
+    a {
+      width: 100%;
+      display: block;
+      padding: rem(15px) rem(20px);
+      text-decoration: none;
+      @include mainFont(300);
+      background: $lightGray;
+
+      &:hover {
+        color: $accentDark;
+        background: $themeColor;
+      }
+    }
+  }
 }

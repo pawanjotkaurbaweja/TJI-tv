@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <article class="post-content fullwidth">
+    <div id="loggedInfo"></div>
+
+    {{ content }}
+    <div id="loggedDetails"></div>
+    
+    <div id="loggedLog" hidden>
+      <p>
+        To cancel your subscriptionSMS <i>ENDSUB</i> to <b>7676767</b> .
+      </p>
+
+      <br>
+      <p>
+      <button id="logout" onclick="logout()">Logout</button>
+      </p>
+    </div>
+  </article>
+
+</div>
+
+
+<script>
+  function checkIfUserLoggedInAndUpdateDOM() {
+    let lastLocalstorageValue = localStorage.getItem('kw_logged_data');
+
+    if(lastLocalstorageValue == undefined) {
+      document.getElementById('loggedInfo').innerHTML = `
+      <h3> Looks like you are not logged-in </h3>
+      <p> Please <a href="/login" class="href">login</a> to continue to browse. </p>
+      `
+    }
+    else {
+      let userData = JSON.parse(lastLocalstorageValue);
+      let callingParty = userData[0].callingParty;
+      document.getElementById('loggedInfo').innerHTML = `
+        <h4> Welcome, ${callingParty} </h4>
+      `;
+      let userDetailDOM = userData.map(x => {
+        return `<li> Last operation: ${x.operationId}, published on ${new Date(x.publishedAt._seconds * 1000).toLocaleString()} </li>`
+      }).join('\n');
+      document.getElementById('loggedDetails').innerHTML = `
+        <ul> ${userDetailDOM} </ul>
+      `;
+      document.getElementById('loggedLog').hidden = false;
+    }
+  }
+
+  function logout() {
+    localStorage.removeItem('kw_logged_data');
+    window.location.href = '/account/';
+  }
+
+  checkIfUserLoggedInAndUpdateDOM()
+</script>
