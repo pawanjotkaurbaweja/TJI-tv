@@ -1,4 +1,4 @@
-let OTP_endpoint = `http://rusktvapi-dev.akriya.co.in/`;
+let OTP_endpoint = `https://rusktvapi-dev.akriya.co.in/`;
 function onRequestOTP(e) {
   e.preventDefault();
   e.target.disabled = true;
