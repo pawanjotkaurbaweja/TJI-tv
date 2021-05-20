@@ -26,7 +26,7 @@ thumbnails:
     height: 720
 channelTitle: "Hattke"
 playlistId: "UUZTnPAzTvTAaLp7U-BrskOQ"
-position: 5
+position: 26
 resourceId:
   kind: "youtube#video"
   videoId: "YRd0DoQRBsk"

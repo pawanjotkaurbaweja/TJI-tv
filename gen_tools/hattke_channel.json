@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "V1ygvwNOUOzdexWzoWE_ReKaEGI",
+  "etag": "3weVRK18XBuZaPm4dLfHP74GCSw",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "GgxfpN7N_uhNxixgebF2JUZD5ro",
+      "etag": "gf6NXWS9CGlw06kd21MrXqa9URY",
       "id": "UCZTnPAzTvTAaLp7U-BrskOQ",
       "snippet": {
         "title": "Hattke",
@@ -46,10 +46,10 @@
         }
       },
       "statistics": {
-        "viewCount": "45907416",
+        "viewCount": "49894910",
         "subscriberCount": "1010000",
         "hiddenSubscriberCount": false,
-        "videoCount": "92"
+        "videoCount": "113"
       },
       "status": {
         "privacyStatus": "public",

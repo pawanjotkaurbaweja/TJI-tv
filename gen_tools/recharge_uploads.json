@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "l7uQ4reIWUvEks3lQKty1MZqoCI",
+  "etag": "8wh8JX-KmUgP6Yqj_g4DBkgVRDY",
   "nextPageToken": "CDIQAA",
   "items": [
     {
@@ -209,7 +209,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3cSx6TiV5nbKF82MeCFtB0ystgQ",
+      "etag": "ItkeEt7OZmjUy_WGkYrDz95c648",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmdQakNIUnh1MkVV",
       "snippet": {
         "publishedAt": "2020-11-22T14:15:20Z",
@@ -260,7 +260,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XhuENZY4sV0ywh72ASefAUx2MRI",
+      "etag": "Sq1P0228fsBcQUxXXXVf32DDZQU",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlBhNXo0bHpYcFF3",
       "snippet": {
         "publishedAt": "2020-11-20T08:31:59Z",
@@ -459,7 +459,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lQ6fq_JXCCC0XW7AAsymMJytgvw",
+      "etag": "RsqzIrzccA1TAIu8oyei3KT4DZw",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlp3bWhKVDNyVExB",
       "snippet": {
         "publishedAt": "2020-10-13T11:28:18Z",
@@ -505,7 +505,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "X6HYMF5buplyqxWujCoLNIVGXnI",
+      "etag": "Q4Zu3ohcUGpyH9F6p-UBsyGeYh0",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLldIbDE5M3p5T24w",
       "snippet": {
         "publishedAt": "2020-10-09T04:57:45Z",
@@ -551,7 +551,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Z6EZSGdr9sY2aOouQ3cumQ8O0X4",
+      "etag": "6qbccshATmQldAL8GCQIfR1pZVk",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmZ6d3NPNG82LW9J",
       "snippet": {
         "publishedAt": "2020-10-08T11:53:40Z",
@@ -653,7 +653,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "S2xENbO6z-R83JVoHUR9wJE1wmI",
+      "etag": "-7Dzhw2z40YphkgvE7Jz1fltTT8",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk9FbTU0OEpDeHo0",
       "snippet": {
         "publishedAt": "2020-09-25T05:02:48Z",
@@ -959,7 +959,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qTKvVwWUaWHlFHi8BiGd6XcKdkw",
+      "etag": "qLugqB_mchGK2qHqPSp-nGIOtOM",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlEwSzVzSlduQkJZ",
       "snippet": {
         "publishedAt": "2020-08-18T09:57:41Z",
@@ -1214,7 +1214,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "00O7GUOquqhmRfba1MMeUXvcRkA",
+      "etag": "Nl8qAayMpeyZKLU6OLhufCT32BU",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLk5PRS10QjlNSHJz",
       "snippet": {
         "publishedAt": "2020-07-22T10:43:53Z",
@@ -1265,7 +1265,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "fYMeiMKFmMqmlaDbTa9vvwUgp9A",
+      "etag": "1_3c0kgoYsw5oAoc3kWaWGN5o1Y",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjRjYnVIcldUY0ow",
       "snippet": {
         "publishedAt": "2020-07-15T11:48:46Z",
@@ -1520,7 +1520,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XiOH7IUNBTk05ffwz00aLkCzKqU",
+      "etag": "gd5OcSWC5ZamI7zDtAsq8Eyeabk",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkhqZm41Wjd3a2hB",
       "snippet": {
         "publishedAt": "2020-06-23T08:25:03Z",
@@ -1571,7 +1571,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IvkiJrL2-TfSZgfOKvqBNdAS3D4",
+      "etag": "ZUB-cWDjHlvzvFxKs5f8zDbk9Sw",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlBCeXdvYVpjLTRR",
       "snippet": {
         "publishedAt": "2020-06-20T15:36:27Z",
@@ -1622,7 +1622,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7qC3ieQpxjcil6aOcUdcDY-Yx3o",
+      "etag": "ImiWDjYzgCYNgM2CM34CCzqZUQQ",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnBwVkRiNjVKY05B",
       "snippet": {
         "publishedAt": "2020-06-18T09:55:25Z",
@@ -1775,7 +1775,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "r3kQbqtZTD-706Ial-rF3_gEH28",
+      "etag": "JhGnTMzMQSnswMql0LG03HY6Uk4",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLldTMG9ZUmxaOV9r",
       "snippet": {
         "publishedAt": "2020-06-13T07:55:57Z",
@@ -1826,7 +1826,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_9veS6GKNGVfkSRLJ12n9zc5kG4",
+      "etag": "i3KiXBwYpxzvQyk3tRmX3wdUzdQ",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmVLeUxRVWwzaXpJ",
       "snippet": {
         "publishedAt": "2020-06-11T19:07:09Z",
@@ -2030,7 +2030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BBzbgxJLzvZvyLWBh8rF1_xePuA",
+      "etag": "v7RAhDHZW6zDTPulqbuIYDryf3c",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLnFmUzdBc2UwYUVJ",
       "snippet": {
         "publishedAt": "2020-05-26T09:09:24Z",
@@ -2183,7 +2183,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Zs0ypxcM5MOt9bF42leFyXGoq8c",
+      "etag": "PxFykAIMjYOpAYUViuQu8ur0N5M",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLkUzQWswODFzUzhZ",
       "snippet": {
         "publishedAt": "2020-04-29T13:01:58Z",
@@ -2234,7 +2234,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-3Zyk-lrIQ9lhwpgZwEgCBBFj14",
+      "etag": "zfGC9mf-OUINBki982fXxaE6oy8",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLjFlcGhIanktTVNj",
       "snippet": {
         "publishedAt": "2020-04-27T14:23:54Z",
@@ -2336,7 +2336,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ve57P0C6UYKEMgCvtb6zWvNzXY0",
+      "etag": "CvBhDO7wVI4reSvtbPEgoxhmpSE",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlVOUS1KZW1iSGtV",
       "snippet": {
         "publishedAt": "2020-04-15T21:46:30Z",
@@ -2438,7 +2438,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mYw8Yp3MQn0687ln03EDW5XA8fQ",
+      "etag": "GY8BLM3lq09g4MhLGvGvNLnI0ow",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLlpqYl9nTUNmMlY0",
       "snippet": {
         "publishedAt": "2020-03-28T05:53:27Z",
@@ -2489,7 +2489,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8WtBH2v9FU4Y325ZHx_IcJ4VZ10",
+      "etag": "BZ2pZTQ5yccQcsBsihSlfwJtT3A",
       "id": "VVVpV2UtSmhaSkwzY0dwRnNaTnlVN3VBLmpyclFyYkgtUDFj",
       "snippet": {
         "publishedAt": "2020-03-27T11:11:16Z",
