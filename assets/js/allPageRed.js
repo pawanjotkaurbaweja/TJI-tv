@@ -8,7 +8,7 @@ function checkIfUserLoggedInOrRedirect() {
         if (window.location.href.indexOf('/account') < 0
             && window.location.href.indexOf('/login') < 0
             && window.location.href.indexOf('/sub') < 0) {  //only if not already on login or account page
-            window.location.href = '/account/'
+            window.location.href = '/login/'
         }
     } else {
         // console.log(`We have user data. Let's update relevent DOM`);
