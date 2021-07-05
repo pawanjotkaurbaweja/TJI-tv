@@ -1,10 +1,673 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "5qyj0MEQdJWEfz_wZupHT9UZhGI",
+  "etag": "EUzi5IytmfCV7Z50oXqOVt8RFEk",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "SGC1tFpZKnjdSsabERwqJEKhQ8I",
+      "etag": "NkgUikb_ns_22fP6x_8RhNQkaHM",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmRPUWhKTzAzR1pj",
+      "snippet": {
+        "publishedAt": "2021-06-29T05:13:46Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge! | The Great Indian Gym | Ft. Badri, Bibhu Nandan, Vaibhav Shukla & Neha Bharti",
+        "description": "Watch this video and get a sneak peek into The Great Indian Gym and its funny stories!\n\nFor a natural healthy lifestyle, order India's most loved and top-rated peanut butter brand with top quality products certified by USDA Organic, ISO 22000, SGS Organic. 📄🎖️Go, grab yours now!! 🏃🏻🏃🏻\u200d♀️\nPintola All Natural Peanut Butter: https://amzn.to/3gXwOIF\nPintola Dark Chocolate Peanut Butter: https://amzn.to/2SAceEY\nPintola Store (All Products): https://amzn.to/3jm8q57\n\nHello Gym lovers...It's time to get your fitness fever back with Binge. Tell us how often do you get this fever and how long it stays. There are various types of fitness freak you encounter, tell us which one you can relate to and which one irritates you most. Make sure to watch this video till the end. Subscribe to BINGE! is here for some more awesome content:  https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\n#TheGreatIndianGym #FunnyGymVideo #comedyvideos\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWritten by: Sourav Singh and Abhishek Singh\nDirected By: Shishir Rastogi\nCinematographer: Neil Jain\nEditor: Hilal Mir\nGraphics: Rakesh Sinha\nAssistant Director: Kanika Allagh, Abhay Anand, Kulvinder Singh\nSupervising Producer: Chetan Kulkarni\nProduction Executive: Shrawan Parihar\nCreative Producer: Neha Bharti\nAccount Management: Soumya Arora\nMarketing: Sanchit Kalra, Pushpraj Singh, Komal Gangar, Ayush Panwar \nCreatives: Ravinder Gill\nCast: Badri, Bibhu Nandan Singh, Vaibhav Shukla, Neha Bharti, Abhay Anand, Sourav Singh & Kanika Allagh\n\nSpecial Thanks: Abhishek Singh\n\nFor more trending videos 2021 and viral videos 2021 videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeUPIBnYNc_PP1DAV5Tkm9IN\n\nFollow our actors here:\nBadri: https://www.instagram.com/mrbeanbagg\nBibhu Nandan Singh: https://www.instagram.com/bibhu_nandan_singh/?hl=en\nVaibhav Shukla: https://www.instagram.com/iamvaibhv/\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade and hence Team Rusk brings you the worthy content to stick with. Binge videos incite humor, #laughter, nostalgia, and all kinds of #emotion in you and help ease your stress from a hectic day. If you wish to watch trending videos 2021, viral videos 2021, hindi short films, web series on types of people in gym, fitness freak,funny indian gym fails and people in gym then do watch latest Binge Hindi video The Great Indian Gym feat. Badri, Vaibhav Shukla tsp and Bibhu. If you like videos from #HarshBeniwal, #elvishYadav, #rvcj, #alright, #chotudada,khandesh comedy, #tvf and #tsp then you would love to watch this new Binge video.\n\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. If you wish to watch trending videos 2021, viral videos 2021, hindi short films, web series on types of people in gym, fitness freak,funny indian gym fails and people in gym then do watch latest Binge Hindi video The Great Indian Gym feat. Badri, Vaibhav Shukla tsp and Bibhu. If you like videos from Harsh Beniwal,elvish Yadav,rvcj,alright,chotu dada,khandesh comedy,tvf and tsp then you would love to watch this new Binge video. These bite-sized snippets of daily life, with a Hindi comedy angle thrown in, will touch you to your very core. \n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. You just might prefer binging a video that you can enjoy and not thinking too hard to figure out timelines and put together the puzzle pieces in the plot. These bite-sized snippets of daily life, with a Hindi comedy angle thrown in, will touch you to your very core. \n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dOQhJO03GZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dOQhJO03GZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOQhJO03GZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dOQhJO03GZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dOQhJO03GZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dOQhJO03GZc"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "dOQhJO03GZc",
+        "videoPublishedAt": "2021-06-29T07:16:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2sV26Ni63yxuNFfaEYyy0OLUotU",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLjJQMjR1NEFtQjM4",
+      "snippet": {
+        "publishedAt": "2021-06-19T19:25:59Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge! | Woh Pita Kehlata Hai | Ft. Apoorva, Anushka, Badri, Shibani & Bibhu | Father's Day Special",
+        "description": "Father's Day\n\n“When my father didn't have my hand, he had my back”. We can all relate to this when we think of our fathers. Just like fathers guide you before you take any big decisions, Aqualite will always be there with you before taking any big steps. Just as when you look at your father's smile, #comfortdikhtahai, our words will surely bring that smile to your face too. \nSo make sure to watch this lovely tribute till the end and share it with your lovely fathers. For more such amazing videos, subscribe to Binge! https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg \n\n#HappyFathersDay #FathersDayShayari\n\nFollow Binge on other platforms as well\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nFollow AQUALITE on\nInsta: https://www.instagram.com/aqualiteindia/\nFB: https://www.facebook.com/aqualiteindia\nYT: https://www.youtube.com/channel/UC1GDlDBA2VHl0UdbTVJdAEA\n \n\nWritten & Directed By: Bibhu Nandan Singh\nEditor: Hilal Mir\nAssociate Editor: Abhay Anand\nGraphics: Madhuri Rathi\nAssistant Director: Kanika Allagh, Kulvinder Singh\nSupervising Producer: Chetan Kulkarni\nProduction Executive: Shrawan Parihar\nCreative Producer: Neha Bharti, Alkananda Nayak\nAccount Management: Sanjam Monga\nMarketing: Sanchit Kalra, Ayush Panwar, Komal Gangar, Pushpraj Singh\nCreatives: Ravinder Gill\n\nCast: Apoorva Arora, Anushka Sharma, Badri Chavan, Shibani Bedi & Bibhu Nandan Singh\n\nSpecial Thanks: Parth Sabyasachi, Raj Nandan Singh, Shivam Singh & Anirudh Upadhyay.\n\nFor more trending videos 2021 and viral videos 2021 videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeUPIBnYNc_PP1DAV5Tkm9IN\n\nFollow our actors here:\nBibhu Nandan Singh: https://www.instagram.com/bibhu_nandan_singh/?hl=en\nApoorva Arora: https://www.instagram.com/apooarora/?igshid=du0hvtjh79dn\nAnushka Sharma: https://www.instagram.com/reel_anushka\nBadri: https://www.instagram.com/mrbeanbagg\nShibani Bedi: https://www.instagram.com/shibani_bedi/?hl=en\n\n\nMore about Binge!\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade and hence Team Rusk brings you the worthy content to stick with. Binge trending videos 2021 and viral videos 2021 incite humor, #laughter, nostalgia, and all kinds of #emotion in you and help ease your stress from a hectic day. Binge’s latest video is Woh Pita Kehlata Hai. If you are looking for Happy fathers day shayari status, fathers day whatsapp status, tribute to father videos, father’s day special videos then do watch The Great Indian Fathers - Woh Pita Kehlata Hai. Woh Pita Kehlata Hai feat. #ApoorvaArora, #AnushkaSharma, #Badri, #ShubaniBedi and #BibhuNandanSingh.\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. These bite-sized snippets of daily life, with a Hindi comedy angle thrown in, will touch you to your very core. If you like to watch videos from #TVF #HasleyIndia, #Alright, #TSP, #ElvishYadav and #HarshBeniwal then Binge videos are something you should stick to. \n\nAbout #WohPitaKehlataHai\nIf you are looking for Happy fathers day shayari status, fathers day WhatsApp status, tribute to father videos, father’s day special videos then do watch The Great Indian Fathers - Woh Pita Kehlata Hai. Woh Pita Kehlata Hai feat, Apoorva Arora, Anushka Sharma, Badri, Shubani Bedi and Bibhu Nandan Singh. If you wish to make your father feel a little more special than love you papa then do share this amazing video with him.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2P24u4AmB38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2P24u4AmB38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2P24u4AmB38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2P24u4AmB38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2P24u4AmB38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2P24u4AmB38"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "2P24u4AmB38",
+        "videoPublishedAt": "2021-06-20T02:34:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eJtHXXrjCv0D3Um6ichVzqGuI6U",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLjFOZWw4VGV4M2ZJ",
+      "snippet": {
+        "publishedAt": "2021-06-01T05:38:04Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge! | Love, Life aur SSC | Ft. Mehek Mehra & Abhinav Anand",
+        "description": "Like Mayank and Pammi in Love, Life aur SSC, make meaningful connections without stepping out of your house. Download Happn now:http://gethap.pn/GeTO\n\nViolins in the background and butterflies in the stomach! Isn’t this exactly what you feel when your crush is around. But wait what if you match with your crush on a dating app as well? Then it’s surely a sign from the universe. \n\nSo make sure to watch what happens when Mayank matches with her school crush Pammi after so many years on Happn. For more Abhinav Anand videos with Mehek Mehra, do subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\n#LoveLifeAurSSC #DatingYourCrush #relationship\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nFor more trending videos 2021 and viral videos 2021 videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeWAvQtUWKvN0Z8JJaKNgZi2\n\nFollow our actors here:\nMehek Mehra: https://www.instagram.com/mehekmehra93/\nAbhinav Anand: https://www.instagram.com/baskarabhi/\n\nWritten By: Nitin Anand\nCo-written By: Sourav Singh\nDirected By: Sumit Kumar\nMehek's DOP : Aditya Menon\nEditor: Amit Mishra\nGraphics: Madhuri Rathi\nCreative Producer: Neha Bharti, Alkananda Nayak\nAssistant Directors: Kanika Allagh, Kulvinder Singh\nSupervising Producer: Chetan Kulkarni\nProduction Executive:Shravan Parihar\nMarketing:Sanchit Kalra, Ayush Panwar, Komal Gangar, Pushpraj Singh\nCreatives: Ravinder Gill\nAccount Management: Soumya Arora\nCast: Abhinav Anand, Mehek Mehra and Abhay Anand\n\nMore about #MehekMehra: \nMehek Mehra is known for her amazing acting skills and bubbly nature.  You can watch Mehek’s trending videos 2021 and viral videos 2021 on Binge, Alright, TSP, and Hasley India as well. In her recent video she plays the character of Pammi, who is an SSC aspirant. \nIf you like to watch videos on dating a government job aspirant, love vs government job, Sarkari naukri vs pyaar, SSC aur pyaar, SSC cgl preparation 2021, SSC exam 2021, how to clear SSC exam, SSC syllabus 2021 then you would love to watch Mehek Mehra’s latest video Love, life aur SSC. For more Mehek Mehra videos, stay tuned to Binge Hindi/ Binge videos.\n\nMore about #AbhinavAnand:\nAbhinav Anand is an actor and director, known for TSP's Rabish Ki Report (2017), Bicchoo Ka Khel (2020) and Awkward Conversations with Girlfriend (2020). Abhinav Anand is popular as Bade and Bade Miyan new videos. His latest video with Binge is Love, life aur SSC. He has also done various videos with Hasley India, Alright, and TSP. If you like videos from Elvish Yadav and Harsh Beniwal then you would also love Bade Miyan new videos.\n\nMore about Binge!\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade and hence Team Rusk brings you the worthy content to stick with. Binge trending videos 2021 and viral videos 2021 incite humor, #laughter, nostalgia, and all kinds of #emotion in you and help ease your stress from a hectic day. Binge’s latest video is Love, Life aur SSC. If you like to watch videos on dating a government job aspirant, love vs government job, Sarkari naukri vs pyaar, SSC aur pyaar, SSC cgl preparation 2021, SSC exam 2021, how to clear SSC exam, SSC syllabus 2021 then you would love to watch Binge Hindi latest video Love, life aur SSC feat. Mehek Mehra and Abhinav Anand.\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. These bite-sized snippets of daily life, with a Hindi comedy angle thrown in, will touch you to your very core. If you like to watch videos from #HasleyIndia, #Alright, #TSP, #ElvishYadav and #HarshBeniwal then Binge videos are something you should stick to. \n\nAbout Love, Life aur SSC\nBinge’s latest video is Love, Life aur SSC. If you like to watch videos on dating a government job aspirant, love vs government job, Sarkari naukri vs pyaar, SSC aur pyaar, SSC cgl preparation 2021, SSC exam 2021, how to clear SSC exam, SSC syllabus 2021 then you would love to watch Binge Hindi latest video Love, life aur SSC feat. Mehek Mehra and Abhinav Anand. \n\n#trendingvideos2021 #viralvideos2021 #datingvideos #Howtoimpressyourcrush #Datingyourcrush #SSCaspirants",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Nel8Tex3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Nel8Tex3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Nel8Tex3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Nel8Tex3fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Nel8Tex3fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Nel8Tex3fI"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "1Nel8Tex3fI",
+        "videoPublishedAt": "2021-06-01T06:32:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FWrAXhd_StaKV1Eucio6fFu0PAk",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmtLaERDMmpXYi1B",
+      "snippet": {
+        "publishedAt": "2021-05-17T22:34:10Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge! | Girlfriend Ke Bestfriend Se Inteqam | Ft. Badri Chavan & Ritik Ghanshani",
+        "description": "After Girlfriend Ke Bestfriend Se Inteqam, start earning with trading on Binomo. Register and get 1000 $ for a demo account https://bit.ly/33HOG2C\n\nBinge-watch all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nBe it day or night, we all have received the wrong number calls from the other end of the country. But this time it's no other stranger but your girl bff's boyfriend. As we at Binge! don't hang up so easily, we bring you the most demanded inteqam - Girlfriend ke best friend se inteqam. #prankcalls #Girlfriendkabestfriend #phonecallprank\n\nSo if you are some girl's best friend or boyfriend, then make sure to watch this video till the end. Subscribe to BINGE! is here for some more awesome content:  https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nIf you wish to watch viral videos 2021,  trending videos 2021, viral video 2021, funny phone call pranks, prank gone wrong, funny conversation like customer care se inteqam from Binge HIndi, Harsh Beniwal, Elvish Yadav, rvcj, hasley India, Alright, TSP on girlfriend ka bestfriend, how to deal with your girlfriends male friends then do watch Girlfriend ke bestfriend se inteqam feat. Badri Chavan comedy and Ritik Ghanshani. For more Badri Chavan videos stay tuned to Binge Videos.\n\nFor more interesting videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeWAvQtUWKvN0Z8JJaKNgZi2\n\nFollow our actors here:\n#BadriChavan: https://www.instagram.com/mrbeanbagg\n#RitikGhanshani: https://www.instagram.com/ritik_ghanshani\n\nWritten By: Sourav Singh\nCo-Written By: Bibhu Nandan Singh\nDirected By: Sumit Kumar\nEditor: Hilal Meer\nGraphics: Rakesh Sinha\nCreative Producer: Neha Bharti, Alkananda Nayak\nAssistant Directors: Kanika Allagh, Kulvinder Singh\nSupervising Producer: Chetan Kulkarni\nProduction Executive: Shravan Parihar\nMarketing: Sanchit Kalra, Ayush Panwar, Komal Gangar, Pushpraj Singh\nCreatives: Ravinder Gill\nAccount Management: Sanjam Monga\nCast: Badri Chavan, Ritik Ghanshani and Deepak Jha\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade and hence Team Rusk brings you the worthy content to stick with. Binge videos incite humor, #laughter, nostalgia, and all kinds of #emotion in you and help ease your stress from a hectic day. If you wish to watch viral videos 2021,  trending videos 2021, viral video 2021, funny phone call pranks, prank gone wrong, funny conversation like customer care se inteqam from Binge HIndi, Harsh Beniwal, Elvish Yadav, rvcj, hasley India, Alright, TSP on girlfriend ka bestfriend, how to deal with your girlfriends male friends then do watch Girlfriend ke bestfriend se inteqam feat. Badri Chavan comedy and Ritik Ghanshani. For more Badri Chavan videos stay tuned to Binge Videos.\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. These bite-sized snippets of daily life, with a Hindi comedy angle thrown in, will touch you to your very core. If you wish to watch viral videos 2021,  trending videos 2021, viral video 2021, funny phone call pranks, prank gone wrong, funny conversation like customer care se inteqam from Binge HIndi, #HarshBeniwal, #ElvishYadav, #rvcj, #hasleyIndia, #Alright, #TSP on girlfriend ka bestfriend, how to deal with your girlfriends male friends then do watch Girlfriend ke bestfriend se inteqam feat. Badri Chavan comedy and Ritik Ghanshani. For more Badri Chavan videos stay tuned to Binge Videos.\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch viral videos 2021,  trending videos 2021, viral video 2021, funny phone call pranks, prank gone wrong, funny conversation like customer care se inteqam from Binge HIndi, Harsh Beniwal, Elvish Yadav, rvcj, hasley India, Alright, TSP on girlfriend ka bestfriend, how to deal with your girlfriends male friends then do watch Girlfriend ke bestfriend se inteqam feat. Badri Chavan comedy and Ritik Ghanshani. For more Badri Chavan videos stay tuned to Binge Videos.\n\nYou just might prefer binging a video that you can enjoy and not thinking too hard to figure out timelines and put together the puzzle pieces in the plot. If you wish to watch viral videos 2021,  trending videos 2021, viral video 2021, funny phone call pranks, prank gone wrong, funny conversation like customer care se inteqam from Binge HIndi, Harsh Beniwal, Elvish Yadav, rvcj, hasley India, Alright, TSP on girlfriend ka bestfriend, how to deal with your girlfriends male friends then do watch Girlfriend ke bestfriend se inteqam feat. Badri Chavan comedy and Ritik Ghanshani. For more Badri Chavan videos stay tuned to Binge Videos.Hindi #entertainment #comic  \n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kKhDC2jWb-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kKhDC2jWb-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kKhDC2jWb-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kKhDC2jWb-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kKhDC2jWb-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kKhDC2jWb-A"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "kKhDC2jWb-A",
+        "videoPublishedAt": "2021-05-18T07:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AwVp9d_lxQg0Pcn7Kr7xo3kWxpY",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLnYzY25aWTQ1OUVn",
+      "snippet": {
+        "publishedAt": "2021-05-05T05:19:43Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's The सरकारी चर्चा | EP 02 - Mishra Ki Muh Dikhai | Bibhu Nandan, Vaibhav Shukla & Sourav",
+        "description": "It's finally the day we all have been waiting for. It's Mishra ki muh dikhai, guys! But wait, we all know that a day without a twist in Mishra Ji's life is just like a movie without climax. That can't be happening. #MuhDikhai #shaadi #comedyvideo\n\nSo what's the new gossip about Mishra Ji for your next charcha, watch this video till the end to find out. Subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWritten By: Sourav Singh\nDirected By: Bibhu Nandan Singh \nEdit Supervisor: Sumit Kumar\nAssistant Directors: Deepak Jha, Kanika Allagh\nProduction Executive: Shrawan Parihar \nCreative Producer: Neha Bharti, Alkananda Nayak\nEditor: Hilal Mir \nGraphics : Naveen Chandra\nCreatives: Ravinder Gill\nMarketing: Sanchit Kalra, Ayush Panwar, Komal Gangar, Pushpraj Singh\nSupervising Producer: Chetan Kulkarni\nCast : Bibhu Nandan Singh, Vaibhav Shukla, Sourav Singh, Chetan Kulkarni\n\nIf you wish to watch comedy web series, funny web series, viral video 2021, trending videos 2021, Hindi web series, desi comedy, funny videos, binge web series on muh dikhai, wedding rituals, office office, government employee, Sarkari office, Sarkari naukri, govt office like the Sarkari karyalay/ The सरकारी कार्यालय on Binge videos, alright, the mridul, tsp then make sure to watch the Sarkari Charcha / The सरकारी चर्चा, episode 2, Mishra ki muh dikhai feat. Bibhu Nandan Singh and Vaibhav Shukla tsp on Binge Hindi.\n\nFor more interesting videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeVEVOt7Q2F3aCIVxWcN5xu6\n\nBinge stars are on Discord now! Talk and connect with them here: https://discord.gg/TfBDvAv\n\nFollow our actors here:\n#VaibhavShukla: https://www.instagram.com/iamvaibhv/\n#BibhuNandanSingh : https://www.instagram.com/bibhu_nandan_singh/?hl=en\nSourav Singh: https://instagram.com/nishachar_2.0?igshid=57adrqw3lidn\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch comedy web series, funny web series, viral video 2021, trending videos 2021, Hindi web series, desi comedy, funny videos, binge web series on muh dikhai, wedding rituals, office office, government employee, Sarkari office, Sarkari naukri, govt office like the Sarkari karyalay/ The सरकारी कार्यालय on Binge videos, #alright, the mridul, #tsp then make sure to watch the Sarkari Charcha / The सरकारी चर्चा, episode 2, Mishra ki muh dikhai feat. Bibhu Nandan Singh and Vaibhav Shukla tsp on Binge Hindi. #laughter #emotion #Hindicomedy \n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. Our normal will be your new normal, exciting, fun, and #relatablevideos. If you wish to watch comedy web series, funny web series, viral video 2021, trending videos 2021, Hindi web series, desi comedy, funny videos, binge web series on muh dikhai, wedding rituals, office office, government employee, Sarkari office, Sarkari naukri, govt office like the Sarkari karyalay/ The सरकारी कार्यालय on Binge videos, alright, #themridul, tsp then make sure to watch the Sarkari Charcha / The सरकारी चर्चा, episode 2, Mishra ki muh dikhai feat. Bibhu Nandan Singh and Vaibhav Shukla tsp on Binge Hindi.\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch comedy web series, funny web series, viral video 2021, trending videos 2021, Hindi web series, desi comedy, funny videos, binge web series on muh dikhai, wedding rituals, office office, government employee, Sarkari office, Sarkari naukri, govt office like the Sarkari karyalay/ The सरकारी कार्यालय on Binge videos, alright, the mridul, tsp then make sure to watch the Sarkari Charcha  The सरकारी चर्चा, episode 2, Mishra ki muh dikhai feat. Bibhu Nandan Singh and Vaibhav Shukla tsp on Binge Hindi. You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop-shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch comedy web series, funny web series, viral video 2021, trending videos 2021, Hindi web series, desi comedy, funny videos, binge web series on muh dikhai, wedding rituals, office office, government employee, Sarkari office, Sarkari naukri, govt office like the Sarkari karyalay/ The सरकारी कार्यालय on Binge videos, alright, the mridul, tsp then make sure to watch the Sarkari Charcha / The सरकारी चर्चा, episode 2, Mishra ki muh dikhai feat. Bibhu Nandan Singh and Vaibhav Shukla tsp on Binge Hindi.\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3cnZY459Eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3cnZY459Eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3cnZY459Eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v3cnZY459Eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v3cnZY459Eg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v3cnZY459Eg"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "v3cnZY459Eg",
+        "videoPublishedAt": "2021-05-05T07:03:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fkKpK3EfZHZtbHnhYBd50eNbabc",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLnpQV0JaSTF2cDU4",
+      "snippet": {
+        "publishedAt": "2021-04-27T06:07:26Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's One Tip One hand | EP 04 - Second Chance | Badri & Anushka | Season Finale | Mini Series",
+        "description": "Adda247 and Binge bring you One Tip One Hand, EP 04, Second Chance.\nDownload Adda247 App for sureshot selection in govt jobs: https://adda247.app.link/YTBinge\n \nAdda247 is India's largest exam preparation platform focussed on government jobs. Over the last 10 years, we have helped more than 1 lakh aspirants to get prestigious jobs in the government sector including Banking, SSC, Railway exams, UPSC Teaching, and Defence and State exams.\n We’re Adda, Kamyabi Ka !!\n \nWhile growing up all these years, our four friends have gone through a lot. But now when life is finally giving them a second chance, will they be there for each other? Or just like every other childhood group they will remain digital friends?\nMake sure not to turn your back on these four friends and stay tuned till the end to watch their life goes upside down. #MiniWebSeries #OneTipOneHand #Adda247 #Episode4\n \nSubscribe to BINGE! here: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n \nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWe are on Discord now! Talk and connect with us here: https://discord.gg/TfBDvAv\n\nIf you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 4 Second chance featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nCheck out all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nFollow our actors here\nAnushka Sharma: https://www.instagram.com/reel_anushka\nBadri Chavan: https://www.instagram.com/mrbeanbagg\nRitik Ghanshani: https://www.instagram.com/ritik_ghanshani\nSachin Vidrohi: https://instagram.com/sach1n_vidrohi\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on #IPL2021, #gullycricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 4, second chance featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. #laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 4 Second chance featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like #TVF’s Aspirants then stay tuned to Binge!\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 4 second chance featuring #AnushkaSharma Alright, Ritik Ghanshani, Sachin Vidrohi, and #BadriChavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge! You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, #RVCJ, #HasleyIndia, #alright then make sure to watch Binge Videos, One Tip One Hand web series episode 4 second chance featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPWBZI1vp58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPWBZI1vp58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPWBZI1vp58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zPWBZI1vp58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zPWBZI1vp58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPWBZI1vp58"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "zPWBZI1vp58",
+        "videoPublishedAt": "2021-04-27T07:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pBcHTnMrr69-jGWLdYE4XpjvU90",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmptUjVXU0hsd2Rz",
+      "snippet": {
+        "publishedAt": "2021-04-22T06:57:29Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's One Tip One hand | EP 03 - SSC- Turning Point | Badri, Anushka, Ritik & Sachin | Mini Series",
+        "description": "Adda247 and Binge bring you One Tip One Hand, EP 03, SSC- Turning Point.\nDownload Adda247 App for sureshot selection in govt jobs: https://adda247.app.link/YTBinge\n \nAdda247 is India's largest exam preparation platform focussed on government jobs. Over the last 10 years, we have helped more than 1 lakh aspirants to get prestigious jobs in the government sector including Banking, SSC, Railway exams, UPSC Teaching, and Defence and State exams.\n We’re Adda, Kamyabi Ka !!\n \nWhile friends are the biggest support system of your life, you can never ignore the sacrifices your parents make for you. They dream to give you the life they never lived. So, if your parents always had your back no matter what's the situation then make sure to stay tuned till the end.  #MiniWebSeries #OneTipOneHand #Adda247 #Episode3\n \nSubscribe to BINGE! here: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n \nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWe are on Discord now! Talk and connect with us here: https://discord.gg/TfBDvAv\n\nIf you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 3 SSC- Turning Point featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nCheck out all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nFollow our actors here\nAnushka Sharma: https://www.instagram.com/reel_anushka\nBadri Chavan: https://www.instagram.com/mrbeanbagg\nRitik Ghanshani: https://www.instagram.com/ritik_ghanshani\nSachin Vidrohi: https://instagram.com/sach1n_vidrohi\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on #IPL2021, #gullycricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 3 SSC- Turning Point featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. #laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 3 SSC- Turning Point featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like #TVF’s Aspirants then stay tuned to Binge!\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 3 SSC- Turning Point featuring #AnushkaSharma Alright, Ritik Ghanshani, Sachin Vidrohi, and #BadriChavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge! You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, #RVCJ, #HasleyIndia, #alright then make sure to watch Binge Videos, One Tip One Hand web series episode 3 SSC- Turning Point featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jmR5WSHlwds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jmR5WSHlwds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jmR5WSHlwds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jmR5WSHlwds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jmR5WSHlwds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jmR5WSHlwds"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "jmR5WSHlwds",
+        "videoPublishedAt": "2021-04-22T08:29:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BaqHhbHCbkEIE5lu3wneJRF-jrI",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLndEdlgyZU1VdWFr",
+      "snippet": {
+        "publishedAt": "2021-04-16T18:40:57Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's One Tip One hand | EP 02 - First Beer | Badri, Anushka, Ritik & Sachin | Mini Series",
+        "description": "Adda247 and Binge bring you One Tip One Hand, EP 02, First Beer.\nDownload Adda247 App for sureshot selection in govt jobs: https://adda247.app.link/YTBinge\n \nAdda247 is India's largest exam preparation platform focussed on government jobs. Over the last 10 years, we have helped more than 1 lakh aspirants to get prestigious jobs in the government sector including Banking, SSC, Railway exams, UPSC Teaching, and Defence and State exams.\n We’re Adda, Kamyabi Ka !!\n \nWhile friends are always there for your highs and lows, they are also the ones who push you to try new things. Well, our gully boys and girls are all set to have the most fun party of their life and share their first beer together. #MiniWebSeries #OneTipOneHand #Adda247 #Episode2\n \nSo if you are all set to forget all the problems for few minutes and just enjoy yourself with your friends then make sure to stay tuned till the end. Subscribe to BINGE! here: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n \nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWe are on Discord now! Talk and connect with us here: https://discord.gg/TfBDvAv\n\nIf you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 2 first beer featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nCheck out all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nFollow our actors here\nAnushka Sharma: https://www.instagram.com/reel_anushka\nBadri Chavan: https://www.instagram.com/mrbeanbagg\nRitik Ghanshani: https://www.instagram.com/ritik_ghanshani\nSachin Vidrohi: https://instagram.com/sach1n_vidrohi\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on #IPL2021, #gullycricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 2 first beer featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. #laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 2 first beer featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like #TVF’s Aspirants then stay tuned to Binge!\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 2 first beer featuring #AnushkaSharma Alright, Ritik Ghanshani, Sachin Vidrohi, and #BadriChavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge! You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, #RVCJ, #HasleyIndia, #alright then make sure to watch Binge Videos, One Tip One Hand web series episode 2  first beer featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDvX2eMUuak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDvX2eMUuak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDvX2eMUuak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDvX2eMUuak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDvX2eMUuak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDvX2eMUuak"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "wDvX2eMUuak",
+        "videoPublishedAt": "2021-04-17T07:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VOqzJwmUj7T3c7leTlAYZ093IGM",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLkI4UXNTbHVuRjQ4",
+      "snippet": {
+        "publishedAt": "2021-04-14T17:54:54Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's One Tip One hand | EP 01 - Coaching Bunk | Badri, Anushka, Ritik & Sachin | Mini Series",
+        "description": "Adda247 and Binge bring you One Tip One Hand, EP 01, Coaching Bunk.\nDownload Adda247 App for sureshot selection in govt jobs: https://adda247.app.link/YTBinge\n \nAdda247 is India's largest exam preparation platform focussed on government jobs. Over the last 10 years, we have helped more than 1 lakh aspirants to get prestigious jobs in the government sector including Banking, SSC, Railway exams, UPSC Teaching, and Defence and State exams.\n We’re Adda, Kamyabi Ka !!\n \nWhile it's good to cultivate a diverse network of friends, you also want to nurture a few truly close friends who will be there for you through thick and thin. And who knows our highs and lows best other than our childhood friends? #MiniWebSeries #OneTipOneHand #Adda247 #Episode1\n \nSo Binge brings you the story of four childhood best friends, who face many personal and professional dilemmas, but seek each other’s advice to make the best out of situations. Subscribe to BINGE! here: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n \nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWe are on Discord now! Talk and connect with us here: https://discord.gg/TfBDvAv\n\nIf you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 1 coaching bunk featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nCheck out all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nFollow our actors here\nAnushka Sharma: https://www.instagram.com/reel_anushka\nBadri Chavan: https://www.instagram.com/mrbeanbagg\nRitik Ghanshani: https://www.instagram.com/ritik_ghanshani\nSachin Vidrohi: https://instagram.com/sach1n_vidrohi\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on #IPL2021, #gullycricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 1 coaching bunk featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. #laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 1 coaching bunk featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like #TVF’s Aspirants then stay tuned to Binge!\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, RVCJ, Hasley India, alright then make sure to watch Binge Videos, One Tip One Hand web series episode 1 coaching bunk featuring #AnushkaSharma Alright, Ritik Ghanshani, Sachin Vidrohi, and #BadriChavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge! You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch new web series, mini web series, Indian web series, Hindi web series 2021, best web series 2021 on IPL 2021, gully cricket like Binge Hindi, Binge Videos, #RVCJ, #HasleyIndia, #alright then make sure to watch Binge Videos, One Tip One Hand web series episode 1 coaching bunk featuring Anushka Sharma Alright, Ritik Ghanshani, Sachin Vidrohi, and Badri Chavan comedy. If you wish to watch more Badri Chavan web series and web series like TVF’s Aspirants then stay tuned to Binge!\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B8QsSlunF48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B8QsSlunF48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B8QsSlunF48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B8QsSlunF48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B8QsSlunF48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B8QsSlunF48"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "B8QsSlunF48",
+        "videoPublishedAt": "2021-04-15T07:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C3lb0V0Tg8FgV9mtGqOucS_NU0E",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLkZES2pQOEFKSjdr",
+      "snippet": {
+        "publishedAt": "2021-04-10T09:32:30Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's One Tip One Hand | Official Teaser | Badri Chavan, Anushka Sharma, Ritik & Sachin",
+        "description": "Binge brings you the story of four best buddies from Ranchi Shastri(24), Deependra(25), Rishabh(23), and Aliya(24). Facing many personal and professional dilemmas, these friends seek each other’s advice to make the best out of situations.  #OneTipOneHand #OfficialTeaser #MiniWebseries\n\nSo if out of all conversations you have the most honest ones are with your friends then stay tuned for One Tip One Hand. Subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWe are on Discord now! Talk and connect with us here: https://discord.gg/TfBDvAv\n\nIf you wish to watch Binge videos, Hindi web series, new web series, Indian web series, webseries, Hindi web series 2021, best web series 2021 like rvcj, hasley india, alright on IPL 2021, gully cricket, then do watch web series teaser One Tip One Hand teaser/ official teaser feat. Anushka Sharma alright, Ritik Ghanshani, Badri Chavan web series / Badri Chavan comedy on Binge Hindi. \n\nCheck out all the episodes of One Tip One Hand here: https://www.youtube.com/playlist?list=PLc6UCr7k2eeX3VQOLoc8uQGDPhr6_MsqL\n\nFollow our actors here\nAnushka Sharma: https://www.instagram.com/reel_anushka/\nBadri Chavan: https://www.instagram.com/mrbeanbagg/...\nRitik Ghanshani: https://www.instagram.com/ritik_ghanshani/?hl=en\nSachin Vidrohi:  \nhttps://instagram.com/sach1n_vidrohi?igshid=1c6tjzppz0oyk\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch Binge videos, Hindi web series, new web series, Indian web series, webseries, Hindi web series 2021, best web series 2021 like rvcj, hasley india, alright on IPL 2021, gully cricket, then do watch web series teaser One Tip One Hand teaser/ official teaser feat. Anushka Sharma alright, Ritik Ghanshani, Badri Chavan web series / Badri Chavan comedy on Binge Hindi. #laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. Our normal will be your new normal, exciting, fun, and #relatablevideos. \nIf you wish to watch Binge videos, Hindi web series, new web series, Indian web series, webseries, Hindi web series 2021, best web series 2021 like #rvcj, #hasleyindia, #alright on #IPL2021, #gullycricket, then do watch web series teaser One Tip One Hand teaser/ official teaser feat. Anushka Sharma alright, Ritik Ghanshani, Badri Chavan web series / Badri Chavan comedy on Binge Hindi. \n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch Binge videos, Hindi web series, new web series, Indian web series, webseries, Hindi web series 2021, best web series 2021 like rvcj, hasley india, alright on IPL 2021, gully cricket, then do watch web series teaser One Tip One Hand teaser/ official teaser feat. Anushka Sharma alright, Ritik Ghanshani, Badri Chavan web series / Badri Chavan comedy on Binge Hindi. You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop-shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch Binge videos, Hindi web series, new web series, Indian web series, webseries, Hindi web series 2021, best web series 2021 like rvcj, hasley india, alright on IPL 2021, gully cricket, then do watch web series teaser One Tip One Hand teaser/ official teaser feat. Anushka Sharma alright, Ritik Ghanshani, Badri Chavan web series / Badri Chavan comedy on Binge Hindi. \n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FDKjP8AJJ7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FDKjP8AJJ7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FDKjP8AJJ7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FDKjP8AJJ7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FDKjP8AJJ7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FDKjP8AJJ7k"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "FDKjP8AJJ7k",
+        "videoPublishedAt": "2021-04-10T09:50:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FYRpZ8-t-keKHwTor-m6q9sw4jk",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLktTRlRhQVNEQkEw",
+      "snippet": {
+        "publishedAt": "2021-03-26T14:35:17Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's The सरकारी चर्चा | EP 01 - Weekend | Bibhu Nandan & Vaibhav Shukla",
+        "description": "Watch episode 1, Weekend of our new series The सरकारी चर्चा and earn by playing on Ludo Money App now: http://www.ludomoney.com\n\nPlease note: DOWNLOAD THE APP FROM THIS LINK 👆\n\nWhen you give your best but still do not get the best results you expected you know it’s time to change the strategy and try different moves. Watch our Mishra Ji doing the same and playing his moves, trying to get the love of his life back. #holiday #weekend #webseries\n\nSo, if you are wondering what happens in this Sarkari Charcha on weekend, then make sure to watch this video till the end. Subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nWritten By : Sourav Singh & Bibhu Nandan Singh\nDirected By : Bibhu Nandan Singh \nCo-Directed By : Abhishek Kumar \nDOP : Hilal Mir\nAssistant Directors: Kanika Allagh, Deepak Jha\nProduction Executive : Shrawan Parihar\nCreative Producer: Neha Bharti\nEditor : Hilal Mir and Sarvesh Bhatt\nSupervising Producer: Chetan Kulkarni\n\nIf you wish to watch #viralvideo2021, #trendingvideos2021, Hindi web series, binge web series, comedy web series, funny web series, on the life of a government employee, government employee, Sarkari office, Sarkari Naukri, Govt office, a day in a government office, after office hours like Alright, #TSP then do watch The सरकारी चर्चा/The Sarkari Charcha episode 1, weekend feat. Bibhu Nandan Singh and Vaibhav Shukla tsp by Binge Hindi.\n\nFor more interesting videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeVEVOt7Q2F3aCIVxWcN5xu6\n\nFollow our actors here:\n#VaibhavShukla: https://www.instagram.com/iamvaibhv/\n#BibhuNandanSingh : https://www.instagram.com/bibhu_nandan_singh/?hl=en\n\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch viral video 2021, trending videos 2021, Hindi web series, binge web series, comedy web series, funny web series, on the life of a government employee, government employee, Sarkari office, Sarkari Naukri, Govt office, a day in a government office, after office hours like Alright, TSP then do watch The सरकारी चर्चा/The Sarkari Charcha episode 1, weekend feat. Bibhu Nandan Singh and Vaibhav Shukla tsp by Binge Hindi.\n#laughter #emotion #Hindicomedy \n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. Our normal will be your new normal, exciting, fun, and #relatablevideos. If you wish to watch viral video 2021, trending videos 2021, Hindi web series, binge web series, comedy web series, funny web series, on the life of a government employee, government employee, Sarkari office, Sarkari Naukri, Govt office, a day in a government office, after office hours like #Alright, TSP then do watch The सरकारी चर्चा/The Sarkari Charcha episode 1, weekend feat. Bibhu Nandan Singh and Vaibhav Shukla tsp by Binge Hindi.\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch viral video 2021, trending videos 2021, Hindi web series, binge web series, comedy web series, funny web series, on the life of a government employee, government employee, Sarkari office, Sarkari Naukri, Govt office, a day in a government office, after office hours like Alright, TSP then do watch The सरकारी चर्चा/The Sarkari Charcha episode 1, weekend feat. Bibhu Nandan Singh and Vaibhav Shukla tsp by Binge Hindi. You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop-shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch viral video 2021, trending videos 2021, Hindi web series, binge web series, comedy web series, funny web series, on the life of a government employee, government employee, Sarkari office, Sarkari Naukri, Govt office, a day in a government office, after office hours like Alright, TSP then do watch The सरकारी चर्चा/The Sarkari Charcha episode 1, weekend feat. Bibhu Nandan Singh and Vaibhav Shukla tsp by Binge Hindi.\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KSFTaASDBA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KSFTaASDBA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KSFTaASDBA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KSFTaASDBA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KSFTaASDBA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KSFTaASDBA0"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "KSFTaASDBA0",
+        "videoPublishedAt": "2021-03-27T06:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SLG2g4NJfEAurqt5rfJlyWRFefU",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLklnejR1Mlk5VXdF",
+      "snippet": {
+        "publishedAt": "2021-03-16T05:39:37Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's The सरकारी कार्यालय | EP 05 - Bhagam Bhag | Ft. Chote Miyan, Shreya Gupto, Bibhu & Vaibhav",
+        "description": "In between this Bhagam Bhag of Binge's The सरकारी कार्यालय download Fan2Play: https://app.adjust.net.in/rw48ejc  India's Quickest Fantasy App and get a Welcome Bonus offer of 200% on your First Deposit up to INR 10,000.\n\nYou know you are at a government office when all the logical process goes through illogical situations and a common man is sandwiched between work and time. If you had to take repetitive rounds for a single work to get completed then you know what we are talking about. So if you are also part of this phase, then do watch this video till the end. Subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\n#governmentjob#governmentemployee#entertainment\n\nInstagram https://instagram.com/fan2play?igshid=a5zbf0c42bu3\nFacebook https://www.facebook.com/fa2play\n\n#fan2play #fantasycricket #letspanga #panga\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nIf you wish to watch Hindi web series, binge web series, comedy web series, funny web series on government office, the life of a government employee, government employee, Sarkari office, Sarkari naukri, govt office, a day in a government office like #alright, #tsp, office office then make sure to watch Binge/ Binge Hindi latest video The सरकारी कार्यालय, The Sarkari Karyalay episode 5 Bhagam Bhag feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nFor more interesting videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeUOc3bwsu7GW1fCHZTdXEh3\n\nFollow our actors here:\n#ChoteMiyan: https://www.instagram.com/iamchotemiyan/\n#VaibhavShukla: https://www.instagram.com/iamvaibhv/\n#ShreyaGupto : https://www.instagram.com/shreyagupto/?hl=en\n\nCredits\nADs\n\n1. Deepak Jha\n2. Kanika Allagh\n3. Akshay Tyagi\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch hindi web series, binge web series, comedy #webseries, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp, episode 5 Bhagam Bhag, office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.#laughter #emotion #Hindicomedy \n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. Our normal will be your new normal, exciting, fun, and #relatablevideos. If you wish to watch hindi web series, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp, episode 5 Bhagam Bhag, office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch hindi web series, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp, episode 5 Bhagam Bhag, office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop-shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch #hindiwebseries, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp,finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay, episode 5 Bhagam Bhag feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Igz4u2Y9UwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Igz4u2Y9UwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Igz4u2Y9UwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Igz4u2Y9UwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Igz4u2Y9UwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Igz4u2Y9UwE"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "Igz4u2Y9UwE",
+        "videoPublishedAt": "2021-03-16T07:09:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MsJCThMluUjFhLn6FwbcEkMZca0",
+      "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLlJkbl96OUpNTEQ0",
+      "snippet": {
+        "publishedAt": "2021-03-13T06:02:51Z",
+        "channelId": "UCDvcxk7hYgNzf4s8lTmM4zg",
+        "title": "Binge's The सरकारी कार्यालय | Shukla Vs Mishra - Bonus Clip | Ft. Chote Miyan & Bibhu",
+        "description": "Watch this bonus clip of Shukla vs Mishra straight from their Sarkari Karyalay and buy Binge's TSK official merch here: https://kadakmerch.com/collections/alright\n\nShukla Ji and Mishra Ji must be keeping a hundred cases pending but they are ready with the finale of The Sarkari Karyalay for you guys! No clue if Vaibhavi's work will be done or not, but one thing we are sure of is entertainment for you all. So Binge! brings you a bonus clip of Shukla vs Mishra  to keep you all set for the finale episode releasing soon. Subscribe to BINGE! is here for some more awesome content: https://www.youtube.com/channel/UCDvcxk7hYgNzf4s8lTmM4zg\n\n#governmentjob#governmentemployee#entertainment\n\nConnect with Binge here:\nInstagram: https://www.instagram.com/bingekaro/?hl=en\nBinge FB: https://www.facebook.com/bingekaro\n\nIf you wish to watch hindi web series, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like #alright, #tsp,teaser finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nFor more interesting videos do check out our new playlist: https://www.youtube.com/playlist?list=PLc6UCr7k2eeUOc3bwsu7GW1fCHZTdXEh3\n\nFollow our actors here:\n#ChoteMiyan: https://www.instagram.com/iamchotemiyan/\n#VaibhavShukla: https://www.instagram.com/iamvaibhv/\n#ShreyaGupto : https://www.instagram.com/shreyagupto/?hl=en\n\nBinge! is the premium #fiction channel owned by Rusk Media Pvt Ltd. Binge! has now become the word of the decade. If you wish to watch hindi web series, binge web series, comedy #webseries, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp,teaser finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.#laughter #emotion #Hindicomedy\n\nThe videos on Binge Hindi are highly relatable because they take inspiration from our everyday lives. Our normal will be your new normal, exciting, fun, and #relatablevideos. If you wish to watch hindi web series, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp,teaser finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nOur mission with Binge! videos are to make the audience feel good and impacted by our progressive storytelling. If you wish to watch hindi web series, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp, teaser finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी\n\nकार्यालय,The Sarkari Karyalay,aadhar card update feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.You can now binge-watch our videos with your whole #family irrelevant of the age group.\n\nBinge Hindi is your one-stop-shop for when you're looking for some Hindi #entertainment #comic relief in life? If you wish to watch #hindiwebseries, binge web series, comedy web series, funny web series on government office,life of a government employee,government employee,sarkari office,sarkari naukri,govt office,a day in a government office like alright, tsp,finale,office office then make sure to watch Binge/ Binge HIndi latest video The सरकारी कार्यालय,The Sarkari Karyalay,aadhar card update feat. chote miyan videos/chote miyan binge, shreya gupto videos,vaibhav shukla tsp, arun kushwaha.\n\nSo, Chalo Binge! Karte Hain!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rdn_z9JMLD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rdn_z9JMLD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rdn_z9JMLD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rdn_z9JMLD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rdn_z9JMLD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Binge!",
+        "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rdn_z9JMLD4"
+        },
+        "videoOwnerChannelTitle": "Binge!",
+        "videoOwnerChannelId": "UCDvcxk7hYgNzf4s8lTmM4zg"
+      },
+      "contentDetails": {
+        "videoId": "Rdn_z9JMLD4",
+        "videoPublishedAt": "2021-03-13T07:12:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1l5PhG3fiNEj-9v-SRt0cBwhoBc",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmJlclR3RDJWYUUw",
       "snippet": {
         "publishedAt": "2021-03-08T23:53:51Z",
@@ -40,7 +703,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 0,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "berTwD2VaE0"
@@ -55,7 +718,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uUdxQLcBD4aaMEGkotedbZ3oI84",
+      "etag": "DDX4JQ_q7xkLQ2Je_1xALQteAhY",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLlVjSXEtLVh6UGR3",
       "snippet": {
         "publishedAt": "2021-03-03T00:02:49Z",
@@ -91,7 +754,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 1,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UcIq--XzPdw"
@@ -106,7 +769,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-5mg2_IS_vuvjGX0tE36Nzj40q8",
+      "etag": "sh-I6M7xl3aW-bhMwlq0_ASp2RY",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLkhRN04tck1UUnpZ",
       "snippet": {
         "publishedAt": "2021-02-26T01:30:10Z",
@@ -142,7 +805,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 2,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HQ7N-rMTRzY"
@@ -157,7 +820,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "c13UTY-N7yo_HH0RkKYFkKQHrmw",
+      "etag": "cGW0__SEeJdd0fRRQdNw3b9bBuY",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLjVrRm1qbzBTaGtZ",
       "snippet": {
         "publishedAt": "2021-02-17T23:01:02Z",
@@ -193,7 +856,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 3,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5kFmjo0ShkY"
@@ -208,7 +871,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7jaQzP5QUCdv9SqNCDSXkqnm5qo",
+      "etag": "lx4WRyc96odW1ogPnah-g8Vhp80",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmRVZGxUVGNjQ3VZ",
       "snippet": {
         "publishedAt": "2021-01-13T18:16:36Z",
@@ -244,7 +907,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 4,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dUdlTTccCuY"
@@ -259,7 +922,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lJJSyksWBngN7HgL_9R5lfvx8ws",
+      "etag": "zaXHHNu_DLkJs6v6zoxguXjJb-0",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmh0STVDRTV5ZkJz",
       "snippet": {
         "publishedAt": "2020-12-29T13:59:04Z",
@@ -295,7 +958,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 5,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "htI5CE5yfBs"
@@ -310,7 +973,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "H12FQ8_AKVl8VydxeF04mQmSt6Q",
+      "etag": "sbfPIq9WVsfmqRvZVytEom4k0xw",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLlFuR29Xd3VoMVFn",
       "snippet": {
         "publishedAt": "2020-12-07T19:55:12Z",
@@ -346,7 +1009,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 6,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "QnGoWwuh1Qg"
@@ -361,7 +1024,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a1Cna2SbTWwpaQw32azSOci6YyQ",
+      "etag": "DtI3tEBnY7AZzyrASbNRIzsxeb4",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLlEyQVF4WXRLVkM4",
       "snippet": {
         "publishedAt": "2020-11-27T05:44:42Z",
@@ -397,7 +1060,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 7,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q2AQxYtKVC8"
@@ -412,7 +1075,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "k0BjRN6S4oLrU4UOFfDpkTU08l4",
+      "etag": "NwnNLWqKY3WBwLYLSWzfw8_FLo8",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmo4bXJXTWxjOTRN",
       "snippet": {
         "publishedAt": "2020-11-16T19:49:05Z",
@@ -448,7 +1111,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 8,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "j8mrWMlc94M"
@@ -463,7 +1126,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tsVY0VawosPuViA-OSFEDIjqfoE",
+      "etag": "xrzi0PW-72wqUrz4i-1eaBSX9FM",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLlVsZTgxdkFDb2JB",
       "snippet": {
         "publishedAt": "2020-11-11T18:18:43Z",
@@ -499,7 +1162,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 9,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ule81vACobA"
@@ -514,7 +1177,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bV6HMKi9wXyeKvmURdsYmDavUzI",
+      "etag": "emCIZQRINVOWyZ1z6S3As0sT1zs",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLnpvd0hJeXcyWVRz",
       "snippet": {
         "publishedAt": "2020-11-02T03:51:31Z",
@@ -550,7 +1213,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 10,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zowHIyw2YTs"
@@ -565,7 +1228,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T3H05ZTO8zVpxIpHcjIMVw3ln6A",
+      "etag": "jUG9-zGPDTSRl5AEEaLvKc-a3bk",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLjRDaGlYZFF6RHp3",
       "snippet": {
         "publishedAt": "2020-10-26T14:38:24Z",
@@ -601,7 +1264,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 11,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4ChiXdQzDzw"
@@ -616,7 +1279,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "THB-bGszel286FgtlOizj5wWOmk",
+      "etag": "uZxObP9swHFU3SPmL_x0Ybe6vQ4",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLnVTZUVyTkdhY0Vn",
       "snippet": {
         "publishedAt": "2020-10-22T12:49:19Z",
@@ -652,7 +1315,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 12,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "uSeErNGacEg"
@@ -667,7 +1330,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uKiboR9XCAFg0QZZXyVMVLcJl9c",
+      "etag": "qVS9LcWuRGLZnZxNBlu7F-thaz0",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLjJfdmlWQzhfX3pB",
       "snippet": {
         "publishedAt": "2020-10-02T03:52:38Z",
@@ -703,7 +1366,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 13,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2_viVC8__zA"
@@ -718,7 +1381,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vhuTU6RD_WLJHf8FB0ntYjU0QBA",
+      "etag": "w_kMNc2gWlcrDZvPxz-hH6ajJeI",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLkoyWHh1b3B3TDZV",
       "snippet": {
         "publishedAt": "2020-09-28T10:23:42Z",
@@ -754,7 +1417,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 14,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "J2XxuopwL6U"
@@ -769,7 +1432,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BW_JJiFMs0CJAIpqyiiz-bk_Rmo",
+      "etag": "nhPmjVzLX2RhKCLFbWq7qx91DcA",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLm5zbTJxeThvaFM0",
       "snippet": {
         "publishedAt": "2020-09-04T14:18:06Z",
@@ -805,7 +1468,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 15,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nsm2qy8ohS4"
@@ -820,7 +1483,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o-czx3AiLIaXXJfVTDgRgs1hSJA",
+      "etag": "dnEl-2P_UEjLvgucp8z4FAQPiWc",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLi1hYzRTRnBhcE5B",
       "snippet": {
         "publishedAt": "2020-08-25T07:55:29Z",
@@ -856,7 +1519,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 16,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-ac4SFpapNA"
@@ -871,7 +1534,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Qgq5ztFGkG1r4A81WDLnEPMdWCs",
+      "etag": "UpNQxGNtZDPyQqkoPy9yGR4GT-A",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLkRMaS10ZTB0MVRR",
       "snippet": {
         "publishedAt": "2020-08-16T14:08:43Z",
@@ -907,7 +1570,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 17,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DLi-te0t1TQ"
@@ -922,7 +1585,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ltyHP0bkQALmuXbV8LRqIFYy5GU",
+      "etag": "t5-BGId3CMqo3WgLKRoVK0wACvE",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLi1LNjJEQ09YUHF3",
       "snippet": {
         "publishedAt": "2020-08-14T09:39:59Z",
@@ -958,7 +1621,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 18,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-K62DCOXPqw"
@@ -973,7 +1636,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R515CzVDlubNUT8Gt9jG079qJ_Y",
+      "etag": "ByGuJ6-Pkh4r5DFEqSfI04lNP80",
       "id": "VVVEdmN4azdoWWdOemY0czhsVG1NNHpnLmpMOVpENHg3X3c0",
       "snippet": {
         "publishedAt": "2020-08-12T07:21:49Z",
@@ -1009,7 +1672,7 @@
         },
         "channelTitle": "Binge!",
         "playlistId": "UUDvcxk7hYgNzf4s8lTmM4zg",
-        "position": 19,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jL9ZD4x7_w4"
@@ -1024,7 +1687,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 20,
+    "totalResults": 33,
     "resultsPerPage": 50
   }
 }
