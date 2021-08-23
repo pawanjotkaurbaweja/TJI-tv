@@ -76,7 +76,6 @@ function letUserKnowSomething(text) {
         `
 }
 
-
 function loginUser(userData) {
   letUserKnowSomething('User already Subscibbed. Redirecting..');
   localStorage.setItem('kw_logged_data', JSON.stringify(userData));
