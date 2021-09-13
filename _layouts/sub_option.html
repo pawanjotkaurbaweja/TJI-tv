@@ -1,0 +1,31 @@
+---
+layout: default
+back: custombody
+---
+<div class="post">
+  <article class="post-content fullwidth">
+    <div class="price-points-options">
+      {% for plan in page.options %}
+      <div class="options">
+        <a href="{{plan.url}}">
+          <div class="header">{{plan.title}}</div>
+          <div class="desc">{{plan.desc}}</div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="the-button-div">
+      <div class="button-text">
+        Subscribe
+      </div>
+    </div>
+  </article>
+</div>
+
+<script src="{{ '/assets/js/customComSub.js' | prepend: site.baseurl }}"></script>
+
+<script>
+
+
+
+</script>

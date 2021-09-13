@@ -1,19 +1,23 @@
 ---
 layout: default
+back: custombody
 ---
 <div class="post">
   <article class="post-content fullwidth">
-    <div class="price-points">
+    <!-- <div class="price-points">
       {{content}}
-    </div>
-    <h2>Rusk Media | Subscribe </h2>
-    <div class="contact-form form-div">
+    </div> -->
+    <!-- <h2>Rusk Media | Subscribe </h2> -->
+    <div class="contact-form form-div sub-box">
+      <div class="thankyou">Thank you</div>
+      <div class="details">for showing interest in Mud Studio Video Platform.</div>
+      <div class="details">You will be charged {{page.charge}} for {{page.duration}}.</div>
       <form id="get-otp" action="">
         <div class="phone-div">
           <label for="phonenumber">Mobile Number</label>
           <input type="number" name="phonenumber" id="phonenumber" />
-          <button id="requestOTPBtn" onclick="onRequestOTP(event)">Request OTP</button>
         </div>
+        <button class="btn" id="requestOTPBtn" onclick="onRequestOTP(event)">Get OTP</button>
       </form>
       <form id="otp-form" hidden>
         <div id="otp-field">
@@ -21,8 +25,9 @@ layout: default
 
           <input type="text" inputmode="numeric" is="web-otp" id="otp-input" autocomplete="one-time-code"
             pattern="^([0-9]+)$" required />
-          <button onclick="verifyOTP(event)"> Verify </button>
+
         </div>
+        <button class="btn" onclick="verifyOTP(event)"> Verify </button>
       </form>
     </div>
     <div id="sendUserInfo"></div>

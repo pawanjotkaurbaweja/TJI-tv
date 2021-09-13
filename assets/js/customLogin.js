@@ -1,5 +1,6 @@
 let OTP_endpoint = `https://rusktvapi.akriya.co.in/`;
-function onRequestOTP(e) {
+
+async function onRequestOTP(e) {
   e.preventDefault();
   e.target.disabled = true;
   console.log('Not redirecting');
@@ -9,7 +10,7 @@ function onRequestOTP(e) {
     callingParty: phonenumber
   };
   console.log(data)
-  fetch(`${OTP_endpoint}/requestOTP`, {
+  let confirmUser = await fetch(`${OTP_endpoint}/subsciptionOTP`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -18,9 +19,16 @@ function onRequestOTP(e) {
     body: JSON.stringify(data)
   })
     .then(data => {
-      console.log(data.json());
-    })
-  otpForm.hidden = false;
+      return data.json();
+    });
+  console.log({ confirmUser });
+  if (confirmUser && confirmUser.status === 'alreadySubed') {
+    loginUser(confirmUser.userDetails);
+  } else {
+    otpForm.hidden = false;
+
+  }
+
 }
 
 function verifyOTP(e) {
@@ -33,7 +41,7 @@ function verifyOTP(e) {
   };
   console.log(`Verify OTP request ${phonenumber} | ${otpValue}`);
   e.preventDefault();
-  fetch(`${OTP_endpoint}/confirmOTP`, {
+  fetch(`${OTP_endpoint}/confirmSubOTP`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -58,12 +66,14 @@ function verifyOTP(e) {
 
 }
 
-function requestOTPfirebaseFunctionTrigger(phoneNumber) {
-
-}
-
 function letUserKnowSomething(text) {
   document.getElementById('sendUserInfo').innerHTML = `
         <p> ${text} </p>
         `
+}
+
+function loginUser(userData) {
+  letUserKnowSomething('User already Subscibbed. Redirecting..');
+  localStorage.setItem('kw_logged_data', JSON.stringify(userData));
+  setTimeout(() => { window.location.href = '/' }, 1000);
 }
