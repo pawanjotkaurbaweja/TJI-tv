@@ -4,10 +4,10 @@ title: Subscribe
 description: Subscribe as New User
 permalink: /sub/
 options:
-    - title: AED 2
+    - title: Fils 150
       desc: For 1 Day
       url: /plan1/
-    - title: AED 10
+    - title: Fils 800
       desc: For 7 Day
       url: /plan2/
 
