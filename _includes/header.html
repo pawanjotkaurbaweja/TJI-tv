@@ -21,7 +21,12 @@
     {% endif %}
 </header>
 
-<div id="mask" class="overlay"></div>
+{% if page.url == '/sub/' %}
+    <div id="mask" class="new-overlay"></div>
+{% else %}
+    <div id="mask" class="overlay"></div>
+{% endif %}
+
 
 {% include menu.html %}
 {% include search.html %}

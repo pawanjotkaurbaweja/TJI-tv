@@ -81,7 +81,7 @@
   align-items: center;
   padding: 20px;
   .options {
-    background: transparent linear-gradient(90deg, #FFFFFFC4 0%, #FFFFFF00 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(0deg, #FFFFFFC4 0%, #FFFFFF01 100%) 0% 0% no-repeat padding-box;
     padding: 20px;
     margin: 15px;
     border: 1px solid #E3E3E3;
@@ -113,7 +113,7 @@
   align-items: center;
   justify-content: center;
   .button-text {
-    background: transparent linear-gradient(90deg, #FFFFFFD1 0%, #FFFFFF00 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(0deg, #FFFFFFD1 0%, #FFFFFFD1 100%) 0% 0% no-repeat padding-box;
     border: 1px solid #F435354D;
     border-radius: 10px;
     opacity: 1;
@@ -185,4 +185,17 @@
     color: #FE0000A6;
     opacity: 1;
   }
+}
+.btn-otp {
+  margin-bottom: 20px;
+  width: 150px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 22px;
+  background: transparent linear-gradient(
+    0deg, #ffffff 0%, #ffffff99 100%) 0% 0% no-repeat padding-box !important;
+}
+
+.box-gradient-new {
+  background: transparent linear-gradient(90deg, #FFFFFFE0 0%, #ffffff82 100%) 0% 0% no-repeat padding-box !important;
 }
